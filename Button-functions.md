@@ -36,5 +36,5 @@ Buttons have functions assigned to them, these functions can be activated by eit
 ## `* SCAN`
 * `F+` - turns on CTCSS scanner for current frequency
 * long press - in channel mode turns on channel scanner, in frequency mode turns on frequency scanner
-## `F #🔑`
+## `F # 🗝`
 * long press - turns on/off key lock
