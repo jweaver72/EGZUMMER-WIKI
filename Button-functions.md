@@ -40,5 +40,3 @@ Buttons have functions assigned to them, these functions can be activated by eit
 * long press - in channel mode turns on channel scanner, in frequency mode turns on frequency scanner
 ## `F #🔑`
 * long press - turns on/off key lock
-
-To enter frequency >1GHz go to frequency band 7 by using `1/BAND` button, and press it again it will switch the frequency to 1GHz and `F7+` symbol will appear. You will be able to enter 1GHz+ frequencies in that mode. You can also enter all nines in the frequency input to enter this mode.
