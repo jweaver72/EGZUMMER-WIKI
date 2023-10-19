@@ -3,6 +3,9 @@ Buttons have functions assigned to them, these functions can be activated by eit
 ## `M` 
 * short press - enter menu
 * long press - when in channel mode copy channel setting to frequency mode
+## `EXIT`
+* short press - exits current menu/function, deletes one digit in an input box
+* long press - deletes all input, exits DTMF input box
 ## `1 BAND`
 * `F+` - in frequency mode switches frequency bands 1-7, there is also band 7+ for >1GHz frequencies
 * long press - same
@@ -34,7 +37,9 @@ Buttons have functions assigned to them, these functions can be activated by eit
 * `F+` - turns on FM radio
 * long press - same
 ## `* SCAN`
+* short press - enters DTMF input mode
 * `F+` - turns on CTCSS scanner for current frequency
 * long press - in channel mode turns on channel scanner, in frequency mode turns on frequency scanner
 ## `F # 🗝`
+* short press - toggles function option
 * long press - turns on/off key lock
