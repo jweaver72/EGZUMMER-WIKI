@@ -39,7 +39,7 @@ Buttons have functions assigned to them, these functions can be activated by eit
 ## `* SCAN`
 * short press - enters DTMF input mode
 * `F+` - turns on CTCSS scanner for current frequency
-* long press - in channel mode turns on channel scanner, in frequency mode turns on frequency scanner
+* long press - in channel mode turns on channel scanner, in frequency mode turns on frequency scanner. When pressed while channel scan is in progress toggles scan lists 1/2/ALL
 ## `F # 🗝`
 * short press - toggles function option
 * long press - turns on/off key lock
