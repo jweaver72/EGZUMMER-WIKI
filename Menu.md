@@ -50,7 +50,11 @@
 * `DWCode` - DTMF code that is sent at the end of a transmission
 * `PTT ID` - sets if `UPCode` and/or `DWCode` should be transmitted
 * `D ST` - DTMF side tone switch, lets you hear transmitted tones in the radio speaker
-* `D Resp` - DTMF decoding response (DO NOTHING: do nothing, RING: Local ringing, REPLY: reply response, BOTH: local ringing +reply response)
+* `D Resp` - DTMF decoding response 
+  * DO NOTHING: do nothing
+  * RING - Local ringing
+  * REPLY - reply response
+  * BOTH - local ringing + reply response
 * `D Hold` - DTMF auto reset time
 * `D Prel` - DTMF pre-load time
 * `D Decd` - enables DTMF decoder
