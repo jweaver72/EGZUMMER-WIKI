@@ -1,4 +1,4 @@
-# Menu items
+# Main menu
 * `Step` - step of the frequency, up/down buttons change frequency by this value, also you can only set a frequency that is multiple of this value
 * `TxPwr` - radio output power
 * `RxDCS` - receiver Digital-Coded Squelch, if you enable this, squelch will only unlock if this code is being received
@@ -66,7 +66,7 @@
   * MAIN TX DUAL RX - always transmits on the primary, listens to both
 * `Sql` - squelch sensitivity level
 
-# Hidden menu:
+# Hidden menu
 
 Hidden menu is accessed by holding `PTT` + `SIDE BUTTON 1` while turning on the radio
 
