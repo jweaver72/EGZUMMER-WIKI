@@ -23,7 +23,7 @@
 * `SList1` - channels assigned to scan list 1
 * `SList2` - channels assigned to scan list 2
 * `ScnRev` - scan resume mode
-  * CARRIER - resume scan after signal disappear
+  * CARRIER - resume scan after signal disappears
   * TIMEOUT - resume scan after 5 seconds pause
   * STOP - after receiving a signal, stop the scan
 * `F1Shrt` - side button 1 short press function
@@ -41,7 +41,7 @@
 * `BackLt` - backlight duration
 * `BltTRX` - backlight activation on TX or RX
 * `Beep` - keypad press beep sound
-* `Roger` - roger beep at the on of transmission
+* `Roger` - roger beep at the end of transmission
 * `STE` - squelch tail eliminator, eliminates noise at the end of a transmission
 * `RP STE` - repeater squelch tail eliminator
 * `1 Call` - one key call channel, lets you quickly switch to the channel with `9 Call` button
