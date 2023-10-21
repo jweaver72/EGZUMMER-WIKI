@@ -65,7 +65,7 @@
 * `BatVol` - battery voltage and percentage
 * `RxMode` - sets how how the upper and lower frequency is used
   * MAIN ONLY - always transmits and listens on the main frequency 
-  * DUAL RX RESPOND - listens to both frequencies, if signal is received on the secondary frequency it locks to it for a couple of seconds so you can respond to a call
+  * DUAL RX RESPOND - listens to both frequencies, if signal is received on the secondary frequency it locks to it for a couple of seconds so you can respond to the call
   * CROSS BAND - always transmits on the primary and listens on the secondary frequency
   * MAIN TX DUAL RX - always transmits on the primary, listens to both
 * `Sql` - squelch sensitivity level
