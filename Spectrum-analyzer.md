@@ -9,5 +9,5 @@ Press `F` + `5 NOAA` to turn on spectrum analyzer
 * `6` - toggle receiver bandwidth
 * `* SCAN` / `F #` - increase / decrease squelch level
 * `PTT` - turn on monitoring mode for current frequency
-* `Side button I` - exclude current frequency from future scans
-* `Side button II` - toggle backlight
+* `Side Button I` - exclude current frequency from future scans
+* `Side Button II` - toggle backlight
