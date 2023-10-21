@@ -1,3 +1,5 @@
+Press `F` + `5 NOAA` to turn on spectrum analyzer
+
 # Button functions
 * `1` / `7` - increase / decrease bandwidth of a single bar in the graph
 * `4` - toggle number of bars in the graph
