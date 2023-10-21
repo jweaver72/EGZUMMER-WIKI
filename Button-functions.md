@@ -1,5 +1,7 @@
 Buttons have functions assigned to them, these functions can be activated by either pressing `F/#` button first, then the function button (I will call it `F+` call). Other method is by long pressing the function button alone without `F/#`. Most buttons replicate the `F+` with long press, but some buttons might have assigned different functions for `F+` and long press.
 
+# Front keypad
+
 ## `M` 
 * short press - enter menu
 * long press - when in channel mode copy channel setting to frequency mode
@@ -43,3 +45,18 @@ Buttons have functions assigned to them, these functions can be activated by eit
 ## `F # 🗝`
 * short press - toggles function option
 * long press - turns on/off key lock
+
+# Side buttons
+
+## `PTT` 
+* Push To Talk button.
+* Besides it's normal operation can be used to stop scanning process. When this button is used to stop channel/frequency scanning, currently found channel is preserved on the screen.
+
+## `Function button I` 
+* short press - user programmable in the menu `F1Shrt`
+* long press - user programmable in the menu `F1Long`
+
+## `Function button II` 
+* short press - user programmable in the menu `F2Shrt`
+* long press - user programmable in the menu `F2Long`
+* this button can also be used to send tone 1750Hz by holding it together with `PTT` button
