@@ -50,7 +50,9 @@ Buttons have functions assigned to them, these functions can be activated by eit
 
 ## `PTT` 
 * Push To Talk button.
-* Besides it's normal operation can be used to stop scanning process. When this button is used to stop channel/frequency scanning, currently found channel is preserved on the screen.
+* when this button is used to stop channel/frequency scanning, currently found channel is preserved on the screen
+* held together with `Function button II` transmits tone 1750Hz
+* held together with any of the front keypad buttons transmits DTMF codes
 
 ## `Function button I` 
 * short press - user programmable in the menu `F1Shrt`
