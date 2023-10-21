@@ -46,7 +46,7 @@
 * `RP STE` - repeater squelch tail eliminator
 * `1 Call` - one key call channel, lets you quickly switch to the channel with `9 Call` button
 * `ANI ID` - DTMF communication radio ID
-* `UPCode` - DTMF code that is sent at the beginning of a transmission
+* `UPCode` - DTMF code that is sent at the beginning of transmission
 * `DWCode` - DTMF code that is sent at the end of a transmission
 * `PTT ID` - sets if `UPCode` and/or `DWCode` should be transmitted
 * `D ST` - DTMF side tone switch, lets you hear transmitted tones in the radio speaker
