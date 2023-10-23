@@ -4,7 +4,7 @@ Buttons have functions assigned to them, these functions can be activated by eit
 
 ## `M` 
 * short press - enter menu
-* long press - when in channel mode copy channel setting to frequency mode
+* long press - user programmable in the menu: `M Long`
 ## `EXIT`
 * short press - exits current menu/function, deletes one digit in an input box
 * long press - deletes all input, exits DTMF input box
@@ -55,10 +55,10 @@ Buttons have functions assigned to them, these functions can be activated by eit
 * held together with any of the front keypad buttons transmits DTMF codes
 
 ## `Function button I` 
-* short press - user programmable in the menu `F1Shrt`
-* long press - user programmable in the menu `F1Long`
+* short press - user programmable in the menu: `F1Shrt`
+* long press - user programmable in the menu: `F1Long`
 
 ## `Function button II` 
-* short press - user programmable in the menu `F2Shrt`
-* long press - user programmable in the menu `F2Long`
+* short press - user programmable in the menu: `F2Shrt`
+* long press - user programmable in the menu: `F2Long`
 * this button can also be used to send tone 1750Hz by holding it together with `PTT` button
