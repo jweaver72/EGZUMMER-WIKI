@@ -9,7 +9,9 @@ Buttons have functions assigned to them, these functions can be activated by eit
 * short press - exits current menu/function, deletes one digit in an input box
 * long press - deletes all input, exits DTMF input box
 ## `1 BAND`
-* `F+` - in frequency mode switches frequency bands 1-7, there is also band 7+ for >1GHz frequencies
+* `F+`
+  * in `frequency mode` - switches frequency bands 1-7, there is also band 7+ for >1GHz frequencies
+  * in `channel mode` - channel settings are copied to frequency mode
 * long press - same
 ## `2 A/B`
 * `F+` - switch display upper/lower frequency
