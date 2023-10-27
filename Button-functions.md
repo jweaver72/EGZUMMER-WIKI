@@ -65,3 +65,23 @@ Buttons have functions assigned to them, these functions can be activated by eit
 * short press - user programmable in the menu: `F2Shrt`
 * long press - user programmable in the menu: `F2Long`
 * this button can also be used to send tone 1750Hz by holding it together with `PTT` button
+
+# Custom button functions
+3 buttons can have its function changed. To change the function go to menu:
+* `F1Shrt` - side button 1, short press
+* `F1Long` - side button 2, long press
+* `F2Shrt` - side button 1, short press
+* `F2Long` - side button 2, long press
+* `M Long` - menu button, long press
+
+Available functions:
+* NONE - no action
+* FLASH LIGHT - switch to the next flashlight function: on / flash / SOS / off
+* POWER - switch radio output power: L (low) / M (medium) / H (high)
+* MONITOR - switch monitor mode on/off
+* SCAN - start channels/frequency scanning
+* VOX - turn voice activation function on/off
+* FM RADIO - turn FM radio on/off
+* LOCK KEYPAD - lock/unlock the keypad
+* SWITCH VFO - change main VFO to upper/lower
+* VFO/MR - change current VFO mode, frequency mode or channel mode
