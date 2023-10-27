@@ -4,6 +4,7 @@ Buttons have functions assigned to them, these functions can be activated by eit
 
 ## `M` 
 * short press - enter menu
+* short press while channel/frequency scanning - last found channel is preserved on the screen
 * long press - user programmable in the menu: `M Long`
 ## `EXIT`
 * short press - exits current menu/function, deletes one digit in an input box
@@ -52,7 +53,7 @@ Buttons have functions assigned to them, these functions can be activated by eit
 
 ## `PTT` 
 * Push To Talk button.
-* when this button is used to stop channel/frequency scanning, currently found channel is preserved on the screen
+* when this button is used to stop channel/frequency scanning, last found channel is preserved on the screen
 * held together with `Function button II` transmits tone 1750Hz
 * held together with any of the front keypad buttons transmits DTMF codes
 
