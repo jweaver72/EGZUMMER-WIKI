@@ -11,7 +11,7 @@ In the `channel mode` you can switch between saved memory channels. Memory chann
 
 ## Memory channels scanning
 
-To scan channels saved in the radio memory switch VFO to memory mode using `3 VFO/MR` function button.
+To scan channels saved in the radio memory switch the VFO to memory mode.
 
 Radio have 2 scanning lists. Each channel can belong to 0, 1 or 2 lists. To add/delete a channel to/from a list switch current VFO to desired channel and go to a menu `ScAdd1` or `ScAdd2`, alternatively you can long press `5 NOAA` button, you will see icons `I` and `II` toggling on and off on the right side of the channel label.
 
@@ -19,7 +19,7 @@ If you set up the scanning lists you can start scanning by using [custom button 
 
 ## Memory channels scanning
 
-To start a frequency scan switch VFO to frequency mode using `3 VFO/MR` function button. Set the start frequency. Set the frequency step (menu `Step`). Start scanning with [custom button scan function](https://github.com/egzumer/uv-k5-firmware-custom/wiki/Button-functions#custom-button-functions) or by long pressing `* Scan` button. You can view scan lists and its channels by going to menu: `SList1` or `SList2`
+To start a frequency scan switch the VFO to frequency mode. Set the start frequency. Set the frequency step (menu `Step`). Start scanning with [custom button scan function](https://github.com/egzumer/uv-k5-firmware-custom/wiki/Button-functions#custom-button-functions) or by long pressing `* Scan` button. You can view scan lists and its channels by going to menu: `SList1` or `SList2`
 
 ## Common frequency/channel scanning features
 
