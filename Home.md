@@ -11,3 +11,5 @@ Welcome to the uv-k5-firmware-custom wiki!
 ***
 [POLSKIE TŁUMACZENIE](https://github-com.translate.goog/egzumer/uv-k5-firmware-custom/wiki?_x_tr_sl=en&_x_tr_tl=pl&_x_tr_hl=pl&_x_tr_pto=wapp)<BR>
 The above is the link to polish translation using google translate, but you can switch to other languages there also.
+
+**_If you are a native speaker and you see any language errors, please do the corrections, there should be an edit button. If editing needs some permissions create an issue, I will try to grant you access._**
