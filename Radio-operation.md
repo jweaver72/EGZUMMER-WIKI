@@ -46,6 +46,6 @@ Menu items for DTMF calling:
   * `REPLAY` - sends a DTMF call back to the caller
   * `BOTH` - both REPLAY and RING
 * `D Hold` - length of a receiving time window
-* `D Prel` - DTMF call preload, time from when the RF path activation to when the DTMF codes start being sent, higher value gives the receiving radio time to detect the signal and open squelch on time so it will not loose the codes
+* `D Prel` - DTMF call preload, time from the RF path activation to when the DTMF codes start being sent, higher value gives the receiving radio time to detect the signal and open squelch on time so it will not loose the codes
 * `D Decd` - turns on the DTMF decoding
 * `D List` - list of DTMF contacts
