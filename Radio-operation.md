@@ -5,7 +5,7 @@ Each VFO can independently of each other function in either frequency or channel
 
 In the `frequency mode` you manually type in the frequency with the keypad. You can also switch different options for that VFO in the menu (first 13 menu entries). If you setup the VFO, the settings can be saved to a memory channel by going into the menu `ChSave` and choosing the memory channel the VFO should be saved into.
 
-In the `channel mode` you can switch between saved memory channels. Memory channels can be added manually as mentioned before or with a computer software. You can use either Quansheng `Portable Radio CPS` or open source software called `CHIRP` (recommended)
+In the `channel mode` you can switch between saved memory channels. Memory channels can be added manually as mentioned before or with a computer software. You can use either Quansheng `Portable Radio CPS` or the recommended open source software called [`Chirp`](https://chirp.danplanet.com/projects/chirp/wiki/Download).
 
 # Channel/frequency scanning
 
