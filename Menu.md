@@ -86,6 +86,7 @@ Hidden menu is accessed by holding `PTT` + `SIDE BUTTON 1` while turning on the 
 1. `ScraEn` - enables scrambler function
 1. `TxEnab` - disables TX on all frequencies
 1. `BatCal` - battery calibration, measure the voltage on the back of the radio, and adjust the value in the menu accordingly
+1. `BatTyp` - battery type, 1600mAh and 2200mAh battery has very different discharge curve, this is used to calculate battery level percentage
 1. `Reset` - resets radio configuration settings
    * VFO - removes only channel settings
    * ALL - resets all radio settings
