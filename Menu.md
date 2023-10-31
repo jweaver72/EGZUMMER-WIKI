@@ -2,7 +2,7 @@
 The radio includes a menu system that uses a short term to describe a function that can be somewhat unclear to users, especially users for whom this is their first radio. This explanation of the menu items should help all users understand each menu item.
 
 ### Entering the Menu
-The large key labeled `M` on the radio serves to enter the menu of the radio. A short press will open the menu to the first item. A long press will open the menu to the last item accessed in the menu.
+The large key labeled `M` on the radio serves to enter the menu of the radio. A short press will open the menu to the first item.
 
 ### Exiting the Menu
 The large key labeled `EXIT` on the radio serves to exit the menu of the radio. A short press will exit the menu. A long press registers as a short press and exits the menu.
