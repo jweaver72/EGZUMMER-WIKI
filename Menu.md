@@ -37,7 +37,7 @@
 1. `BatSav` - battery save option, the rate between active time and sleep time
 1. `Mic` - microphone sensitivity
 1. `MicBar` - microphone bar that appears while transmitting
-1. `ChDisp` - channel display style
+1. `ChDisp` - channel display style (Name + Freq or Number)
 1. `POnMsg` - power on message
 1. `BatTxt` - additional battery value on the status bar in % or V
 1. `BackLt` - backlight duration
