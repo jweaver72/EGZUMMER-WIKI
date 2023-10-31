@@ -9,7 +9,7 @@ Welcome to the uv-k5-firmware-custom wiki!
 [Spectrum analyzer](https://github.com/egzumer/uv-k5-firmware-custom/wiki/Spectrum-analyzer)
 
 ***
-With the links below you can translate the info on this Wiki in your lanquage using google translate.
+With the links below you can translate the info on this Wiki in your lanquage using Google translate.
 
 We have 2 languages predefined. But at the top of a translated screen you can adjust to your preferred language. 
 
