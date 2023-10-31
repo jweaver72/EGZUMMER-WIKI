@@ -93,7 +93,7 @@ Once the menu item is selected, pressing the up and down arrow keys will adjust 
 
 # Hidden menu
 
-Hidden menu is accessed by holding `PTT` + `SIDE BUTTON 1` while turning on the radio
+Hidden menu is activated by holding `PTT` + `SIDE BUTTON 1` while turning on the radio and than Release All Keys.
 
 61. `F Lock` - sets the frequency band plan for certain area
 1. `Tx 200` - enables TX on 200MHz
