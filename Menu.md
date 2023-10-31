@@ -13,7 +13,7 @@ Once in the main menu, the menu items will be displayed on the left-hand side of
 To find the menu item to access, the up and down arrow keys may be used, or the **menu item number** (see list below) may be entered on the keypad. For instance, to access the VOX settings, the down arrow can be pressed 57 times, or the number 57 can be entered on the keypad.
 
 ### Accessing a Menu Item
-Once the desired menu item is highlighted, pressing the `M`enu key will enter into that menu item. This is shown by a small black arrowhead at the top left of the right-hand panel.
+Once the desired menu item is highlighted, pressing the `M`enu key will enter into that menu item.
 
 
 ### Adjusting a Menu Item
