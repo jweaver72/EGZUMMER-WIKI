@@ -7,7 +7,7 @@ In the `frequency mode` you manually type in the frequency with the keypad. You 
 
 In the `channel mode` you can switch between saved memory channels. Memory channels can be added manually as mentioned before or with a computer software. You can use either Quansheng `Portable Radio CPS` or the recommended open source software called [`Chirp`](https://chirp.danplanet.com/projects/chirp/wiki/Download).
 
-# Frequency/Memory-channels scanning
+# Frequency/Memory scanning
 
 ## Frequency scanning
 
