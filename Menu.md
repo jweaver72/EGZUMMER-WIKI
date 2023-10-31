@@ -8,7 +8,7 @@ The large key labeled `M` on the radio serves to enter the menu of the radio. A 
 The large key labeled `EXIT` on the radio serves to exit the menu of the radio. A short press will exit the menu. A long press registers as a short press and exits the menu.
 
 ## Selecting a Menu Item
-Once in the main menu, the menu items will be displayed on the left-hand side of the screen. The currently selected menu item will be highlighted. The currently selected value for that menu item will be shown on the right. Also, at the bottom of the left-hand side is shown the number of the menu item, ranging from 01 to highest number (was 51 and now upto 60 and with Hidden-menu up to 70). 
+Once in the main menu, the menu items will be displayed on the left-hand side of the screen. The currently selected menu item will be highlighted. The currently selected value for that menu item will be shown on the right. Also, at the bottom of the left-hand side is shown the number of the menu item, ranging from 01 to highest number (originally 51 and now upto 60 and with Hidden-menu up to 70). 
 
 To find the menu item to access, the up and down arrow keys may be used, or the **menu item number** (see list below) may be entered on the keypad. For instance, to access the VOX settings, the down arrow can be pressed 57 times, or the number 57 can be entered on the keypad.
 
