@@ -7,17 +7,17 @@ In the `frequency mode` you manually type in the frequency with the keypad. You 
 
 In the `channel mode` you can switch between saved memory channels. Memory channels can be added manually as mentioned before or with a computer software. You can use either Quansheng `Portable Radio CPS` or the recommended open source software called [`Chirp`](https://chirp.danplanet.com/projects/chirp/wiki/Download).
 
-# Frequency/channel scanning
+# Frequency/Memory-channels scanning
 
 ## Frequency scanning
 
 To start a frequency scan switch the VFO to frequency mode. Set the start frequency. Set the frequency step (menu `Step`). Start scanning with [custom button scan function](https://github.com/egzumer/uv-k5-firmware-custom/wiki/Button-functions#custom-button-functions) or by long pressing `* Scan` button.
 
-## Memory channels scanning
+## Memory-channels scanning
 
 To scan channels saved in the radio memory switch the VFO to Memory mode.
 
-The radio has 2 scanning lists. Each memory channel can belong to 0, 1 or 2 lists. To add/delete a channel to/from a list switch current VFO to desired channel and go to a menu `ScAdd1` or `ScAdd2`, alternatively you can long press `5 NOAA` button, you will see icons `I` and `II` toggling on and off on the right side of the channel label.
+The radio has 2 scanning lists. Each memory-channel can belong to 0, 1 or 2 lists. To add/delete a channel to/from a list switch current VFO to desired channel and go to a menu `ScAdd1` or `ScAdd2`, alternatively you can long press `5 NOAA` button, you will see icons `I` and `II` toggling on and off on the right side of the channel label.
 
 If you set up the scanning lists you can start scanning by using [custom button scan function](https://github.com/egzumer/uv-k5-firmware-custom/wiki/Button-functions#custom-button-functions) or by long pressing `* Scan` button. If you press the function button or long press `* Scan` while scanning, the scanning list will be switched, you will see corresponding icon on the top left of the screen: 1, 2 or * (star means: All memory channels). Active scanning list can also be changed with menu `SList`. You can view scan lists and its channels by going to menu: `SList1` or `SList2`
 
