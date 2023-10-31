@@ -17,7 +17,7 @@ Once the desired menu item is highlighted, pressing the `M`enu key will enter in
 
 
 ### Adjusting a Menu Item
-Once the menu item is selected, pressing the up and down arrow keys will adjust the setting for that menu item. To confirm the selection, press the `M`enu key. To cancel the selection, press the `EXIT` key. To cancel the selection and return to the top of the menu, long press the `EXIT` key.
+Once the menu item is selected, pressing the up and down arrow keys will adjust the setting for that menu item. To confirm the selection, press the `M`enu key. To cancel the selection, press the `EXIT` key.
 
 # Main menu
 
