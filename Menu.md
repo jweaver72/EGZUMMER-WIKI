@@ -1,3 +1,20 @@
+The radio includes a menu system that uses a short term to describe a function that can be somewhat unclear to users, especially users for whom this is their first radio. This explanation of the menu items should help all users understand each menu item.
+
+# Entering the Menu
+The large key labeled `M` on the radio serves to enter the menu of the radio. A short press will open the menu to the first item. A long press will open the menu to the last item accessed in the menu.
+
+# Exiting the Menu
+The large key labeled `EXIT` on the radio serves to exit the menu of the radio. A short press will exit the menu. A long press registers as a short press and exits the menu.
+
+# Selecting a Menu Item
+Once in the main menu, the menu items will be displayed on the left-hand side of the screen. The currently selected menu item will be highlighted. The currently selected value for that menu item will be shown on the right. Also, at the bottom of the left-hand side is shown the number of the menu item, ranging from 01 to highest number (was 51 and now upto 60 and with Hidden menu upto 70). To find the menu item to access, the up and down arrow keys may be used, or the menu item number may be entered on the keypad. For instance, to access the VOX settings, the down arrow can be pressed 57 times, or the number 57 can be entered on the keypad.
+
+# Accessing a Menu Item
+Once the desired menu item is highlighted, pressing the `M`enu key will enter into that menu item. This is shown by a small black arrowhead at the top left of the right-hand panel.
+
+# Adjusting a Menu Item
+Once the menu item is selected, pressing the up and down arrow keys will adjust the setting for that menu item. To confirm the selection, press the Menu key. To cancel the selection, press the exit key. To cancel the selection and return to the top of the menu, long press the exit key.
+
 # Main menu
 
 1. `Step` - step of the frequency, up/down buttons change frequency by this value, also you can only set a frequency that is multiple of this value
