@@ -10,7 +10,7 @@ The large key labeled `EXIT` on the radio serves to exit the menu of the radio. 
 ## Selecting a Menu Item
 Once in the main menu, the menu items will be displayed on the left-hand side of the screen. The currently selected menu item will be highlighted. The currently selected value for that menu item will be shown on the right. Also, at the bottom of the left-hand side is shown the number of the menu item, ranging from 01 to highest number (originally 51 and now upto 60 and with Hidden-menu up to 70). 
 
-To find the menu item to access, the up and down arrow keys may be used, or the **menu item number** (see list below) may be entered on the keypad. For instance, to access the VOX settings, the down arrow can be pressed 57 times, or the number 57 can be entered on the keypad.
+To find the menu item to access, the `UP/DOWN`arrow keys may be used, or the **_menu item number_** (see lists below) may be entered on the numeric keypad. For instance, to access the VOX settings, the down arrow can be pressed 57 times, or the number 57 can be entered on the keypad.
 
 ## Accessing a Menu Item
 Once the desired menu item is highlighted, pressing the `M`enu key will enter into that menu item.
@@ -21,6 +21,7 @@ Once the menu item is selected, pressing the up and down arrow keys will adjust 
 
 # Main menu
 
+The number in front of the menu-item-description is an **_menu item number_** that can be used for quick selection.
 1. `Step` - step of the frequency, up/down buttons change frequency by this value, also you can only set a frequency that is multiple of this value
 1. `TxPwr` - radio output power
 1. `RxDCS` - receiver Digital-Coded Squelch, if you enable this, squelch will only unlock if this code is being received
@@ -98,6 +99,8 @@ Once the menu item is selected, pressing the up and down arrow keys will adjust 
 # Hidden menu
 
 Hidden menu is activated by holding `PTT` + `SIDE BUTTON 1` while turning on the radio and than Release All Keys.
+
+The number in front of the menu-item-description is an **_menu item number_** that can be used for quick selection.
 
 61. `F Lock` - sets the frequency band plan for certain area
 1. `Tx 200` - enables TX on 200MHz
