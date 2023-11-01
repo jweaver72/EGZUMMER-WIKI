@@ -7,7 +7,7 @@ In the `frequency mode` you manually type in the frequency with the keypad. You 
 
 In the `channel mode` you can switch between saved memory channels. Memory channels can be added manually as mentioned before or with a computer software. You can use either Quansheng `Portable Radio CPS` or the recommended open source software called [`Chirp`](https://chirp.danplanet.com/projects/chirp/wiki/Download).
 
-In addition to memory channels, you can also adjust various Settings, such as the power-on screen and more ....
+In addition to memory channels, you can also adjust various Settings, such as the power-on screen and more. Just keep in mind that this firmware's options are expanded in many cases. Some functions or settings may not be available in the computer software, e.g. backlight timeout will have different settings, backlight brightness or MENU button long press function won't be available at all, etc. Those can be changed only in the radio menu.
 
 ![Logo strings can be Set with Chirp](https://github.com/egzumer/uv-k5-firmware-custom/assets/148579604/c95325d2-50af-47dd-882c-8f49d9f878f5)
 
