@@ -108,7 +108,7 @@ The number in front of the menu-item-description is an **_menu item number_** th
 1. `Tx 500` - enables TX on 500MHz
 1. `350 En` - enables RX on 350MHz
 1. `ScraEn` - enables scrambler function
-1. `TxEnab` - disables TX on all frequencies
+1. `TxEnab` - when set to OFF disables TX on all frequencies
 1. `BatCal` - battery calibration, measure the voltage on the back of the radio, and adjust the value in the menu accordingly
 1. `BatTyp` - battery type, 1600mAh and 2200mAh battery has very different discharge curve, this is used to calculate battery level percentage
 1. `Reset` - resets radio configuration settings
