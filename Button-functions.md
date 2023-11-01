@@ -68,6 +68,12 @@ Buttons have functions assigned to them, these functions can be activated by eit
 * long press - user programmable in the menu: `F2Long`
 * this button can also be used to send tone 1750Hz by holding it together with `PTT` button
 
+# External key
+## `PTT` 
+* Push To Talk button.
+* The PTT on external microphone acts different than the internal PTT (side-)button.
+On external PTT the TX waits until no RX-signal is received.
+
 # Custom button functions
 3 buttons can have its function changed. To change the function go to menu:
 * `F1Shrt` - side button 1, short press
@@ -87,12 +93,6 @@ Available functions:
 * LOCK KEYPAD - lock/unlock the keypad
 * SWITCH VFO - change main VFO to upper/lower
 * VFO/MR - change current VFO mode, frequency mode or channel mode
-
-# External key
-## `PTT` 
-* Push To Talk button.
-* The PTT on external microphone acts different than the internal PTT (side-)button.
-On external PTT the TX waits until no RX-signal is received.
 
 #
 => [Return to Home](https://github.com/egzumer/uv-k5-firmware-custom/wiki)
