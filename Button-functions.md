@@ -93,6 +93,3 @@ Available functions:
 * LOCK KEYPAD - lock/unlock the keypad
 * SWITCH VFO - change main VFO to upper/lower
 * VFO/MR - change current VFO mode, frequency mode or channel mode
-
-#
-=> [Return to Home](https://github.com/egzumer/uv-k5-firmware-custom/wiki)
