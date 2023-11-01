@@ -56,18 +56,18 @@ The number in front of the menu-item-description is an **_menu item number_** th
 1. `M Long` - menu button long press function
 1. `KeyLck` - auto keypad lock option
 1. `TxTOut` - max transmission time limit
-1. `BatSav` - battery save option, the rate between active time and sleep time
+1. `BatSav` - battery save option, the rate between active time and sleep time (OFF/1:1/1:2/1:3/1:4)
 1. `Mic` - microphone sensitivity
 1. `MicBar` - microphone bar that appears while transmitting
 1. `ChDisp` - channel display style (Name + Freq or Number)
 1. `POnMsg` - power on message
 1. `BatTxt` - additional battery value on the status bar in % or V
-1. `BackLt` - backlight duration
+1. `BackLt` - backlight duration  (OFF/ON/configured Time)
 1. `BLMin` - minimal backlight brightness, when the screen backlight turns OFF it will go dim to this value
 2. `BLMax` - maximal backlight brightness, when the screen backlight turns ON it will turn bright to this value
 1. `BltTRX` - backlight activation on TX or RX
 1. `Beep` - keypad press beep sound
-1. `Roger` - roger beep at the end of transmission
+1. `Roger` - roger beep at the end of transmission (OFF/ROGER/MDC1200)
 1. `STE` - squelch tail eliminator, eliminates noise at the end of a transmission
 1. `RP STE` - repeater squelch tail eliminator
 1. `1 Call` - one key call channel, lets you quickly switch to the channel with `9 Call` button
@@ -87,7 +87,7 @@ The number in front of the menu-item-description is an **_menu item number_** th
 1. `D List` - list of DTMF constacts
 1. `D Live` - displays DTMF codes received by radio in the middle of the screen
 1. `AM Fix` - activates autogain AM fix function
-1. `VOX` - voice TX activation sensitivity level
+1. `VOX` - voice TX activation sensitivity level VOX Setting (OFF: turn off VOX, 1-10: 1 to 10 grade.)
 1. `BatVol` - battery voltage and percentage
 1. `RxMode` - sets how how the upper and lower frequency is used
    * MAIN ONLY - always transmits and listens on the main frequency 
