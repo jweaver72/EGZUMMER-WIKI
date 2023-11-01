@@ -18,6 +18,3 @@ The current VFO/Memory-frequency is the start-frequency of the spectrum-screen
 * `PTT` - turn on monitoring mode for current frequency
 
 ![Monitor Mode](https://github.com/egzumer/uv-k5-firmware-custom/assets/148579604/e5bbde26-06a8-4dd6-8434-74ae99a8e101)
-
-#
-=> [Return to Home](https://github.com/egzumer/uv-k5-firmware-custom/wiki)
