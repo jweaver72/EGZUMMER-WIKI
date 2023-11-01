@@ -11,11 +11,11 @@ Press `F` + `5 NOAA` to turn on spectrum analyzer
 * `3` / `9` - increase / decrease maximum dB value (vertical scale)
 * `6` - toggle receiver bandwidth
 * `* SCAN` / `F #` - increase / decrease squelch level
-* `PTT` - turn on monitoring mode for current frequency
 * `Side Button I` - exclude current frequency from future scans
 * `Side Button II` - toggle backlight
+* `PTT` - turn on monitoring mode for current frequency
 
-
+![Monitor Mode](https://github.com/egzumer/uv-k5-firmware-custom/assets/148579604/e5bbde26-06a8-4dd6-8434-74ae99a8e101)
 
 #
 => [Return to Home](https://github.com/egzumer/uv-k5-firmware-custom/wiki)
