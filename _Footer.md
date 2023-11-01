@@ -1,1 +1,1 @@
-=> [Return to Home](https://github.com/egzumer/uv-k5-firmware-custom/wiki)
+=> [Return to Home page](https://github.com/egzumer/uv-k5-firmware-custom/wiki)
