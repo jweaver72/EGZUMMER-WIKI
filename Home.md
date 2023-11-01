@@ -1,12 +1,12 @@
 Welcome to the uv-k5-firmware-custom wiki!
 
-[Radio operation](https://github.com/egzumer/uv-k5-firmware-custom/wiki/Radio-operation)
+* [Radio operation](https://github.com/egzumer/uv-k5-firmware-custom/wiki/Radio-operation)
 
-[Menu](https://github.com/egzumer/uv-k5-firmware-custom/wiki/Menu)
+* [Menu](https://github.com/egzumer/uv-k5-firmware-custom/wiki/Menu)
 
-[Button functions](https://github.com/egzumer/uv-k5-firmware-custom/wiki/Button-functions)
+* [Button functions](https://github.com/egzumer/uv-k5-firmware-custom/wiki/Button-functions)
 
-[Spectrum analyzer](https://github.com/egzumer/uv-k5-firmware-custom/wiki/Spectrum-analyzer)
+* [Spectrum analyzer](https://github.com/egzumer/uv-k5-firmware-custom/wiki/Spectrum-analyzer)
 
 ![ezgumer - display](https://github.com/egzumer/uv-k5-firmware-custom/assets/148579604/be44d33f-4794-4b5f-9353-2022a5ef3111)
 
