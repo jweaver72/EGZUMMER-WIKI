@@ -15,7 +15,7 @@ Welcome to the uv-k5-firmware-custom wiki!
 #
 With the links below you can translate the info on this Wiki in your lanquage using Google translate.
 
-We have 2 languages predefined. But at the top of a translated screen you can adjust to your preferred language. 
+We have two languages predefined. But at the top of a translated screen you can adjust to your preferred language. 
 
 * [POLSKIE TŁUMACZENIE / Polisch translation](https://github-com.translate.goog/egzumer/uv-k5-firmware-custom/wiki?_x_tr_sl=en&_x_tr_tl=pl&_x_tr_hl=pl&_x_tr_pto=wapp)<BR>
 * [Nederlandse vertaling / Dutch translation](https://github-com.translate.goog/egzumer/uv-k5-firmware-custom/wiki?_x_tr_sl=en&_x_tr_tl=nl&_x_tr_hl=nl&_x_tr_pto=wapp)<BR>
