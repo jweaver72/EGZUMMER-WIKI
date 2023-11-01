@@ -58,7 +58,4 @@ Menu items for DTMF calling:
 * `D Decd` - turns on the DTMF decoding
 * `D List` - list of DTMF contacts
 
-#
-=> [Return to Home](https://github.com/egzumer/uv-k5-firmware-custom/wiki)
-
 
