@@ -24,8 +24,7 @@ Just wait a moment and the firmware is loaded, or select a different file from y
 
 When finished, disconnect the programming interface and _enjoy a new release version_ ;-)
 
-#
-=> [Return to Home](https://github.com/egzumer/uv-k5-firmware-custom/wiki)
+
 
 
 
