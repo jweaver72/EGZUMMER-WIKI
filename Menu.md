@@ -115,5 +115,3 @@ The number in front of the menu-item-description is an **_menu item number_** th
    * VFO - removes only channel settings
    * ALL - resets all radio settings
 
-#
-=> [Return to Home](https://github.com/egzumer/uv-k5-firmware-custom/wiki)
