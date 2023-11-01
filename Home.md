@@ -13,6 +13,8 @@ On this wiki the (custom and extended) functions are described, which have been 
 
 * [Spectrum analyzer](https://github.com/egzumer/uv-k5-firmware-custom/wiki/Spectrum-analyzer)
 
+* [Flashing firmware](https://github.com/egzumer/uv-k5-firmware-custom/wiki/Flashing-firmware)
+
 
 ![egzumer - display](https://github.com/egzumer/uv-k5-firmware-custom/assets/148579604/0ee03884-c7c3-4346-b338-15c9e8abd991)
 
