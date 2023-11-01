@@ -1,4 +1,4 @@
-Welcome to the uv-k5-firmware-custom wiki!
+Welcome to the `uv-k5-firmware-custom` wiki!
 
 * [Radio operation](https://github.com/egzumer/uv-k5-firmware-custom/wiki/Radio-operation)
 
