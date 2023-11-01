@@ -27,7 +27,7 @@ Editing of memory- and scan-list is much easier on an PC with [`Chirp`](https://
 
 You can change the scan direction while scanning with UP/DOWN buttons.
 
-The scan can be stopped with the `EXIT` button, the search result will be ignored and channel/frequency will return to the one that was set before scan begun. Alternatively you can stop the scan with `PTT` or `MENU` button in which case the channel/frequency will be set to the last channel where transmission was found.
+The scan can be stopped with the `EXIT` button, the search result will be ignored and frequency/channel will return to the one that was set before scan begun. Alternatively you can stop the scan with `PTT` or `MENU` button in which case the frequency/channel will be set to the last channel where transmission was found.
 
 # DTMF calling (decoding)
 
