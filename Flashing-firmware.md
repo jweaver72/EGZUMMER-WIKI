@@ -1,6 +1,6 @@
 Flashing firmware is possible with a separate program, but can now be done much more easily from your web browser.
 
-Just goto the page with official released [egzumer firmware releases](https://github.com/egzumer/uv-k5-firmware-custom/releases)
+Just goto the page with official released [egzumer firmware releases](https://github.com/egzumer/uv-k5-firmware-custom/releases).
 
 Select the latest/desired firmware and look for 
  `🗲FLASH WITH A BROWSER🗲`
