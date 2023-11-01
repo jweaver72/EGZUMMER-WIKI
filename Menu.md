@@ -111,3 +111,6 @@ Hidden menu is activated by holding `PTT` + `SIDE BUTTON 1` while turning on the
 1. `Reset` - resets radio configuration settings
    * VFO - removes only channel settings
    * ALL - resets all radio settings
+
+#
+=> [Return to Home](https://github.com/egzumer/uv-k5-firmware-custom/wiki)
