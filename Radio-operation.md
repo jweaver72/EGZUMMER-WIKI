@@ -31,7 +31,7 @@ The scan can be stopped with the `EXIT` button, the search result will be ignore
 
 # DTMF calling (decoding)
 
-DTMF calling can be turned on in the menu `D Decd` (DTMF Decoding). You need a computer and programming cable to setup the whole system. You need to change `ANI ID` (programmable from the computer) of each radio to be unique in your network. It is also a good idea to program the list of contacts, their IDs and names.
+[DTMF](https://en.wikipedia.org/wiki/Dual-tone_multi-frequency_signaling) calling can be turned on in the menu `D Decd` (DTMF Decoding). You need a computer and programming cable to setup the whole system. You need to change `ANI ID` (programmable from the computer) of each radio to be unique in your network. It is also a good idea to program the list of contacts, their IDs and names.
 
 The basic idea is to be able to dial a one particular person (or a group) among many on the same frequency. If you turn on the DTMF calling on a given channel your radio will be silent on that channel until an incoming call arrives with the destination ID matching `ANI ID` of your radio. If you receive the call a time window opens up in which the speaker activates and a person on the other side can talk to you. The time window expires after a delay set in `D Hold` menu entry from the time when incoming signal disappears.
 
