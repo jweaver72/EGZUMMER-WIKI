@@ -1,4 +1,9 @@
-Welcome to the `uv-k5-firmware-custom` wiki!
+# Welcome to the `uv-k5-firmware-custom` wiki!
+
+On this wiki the (custom and extended) functions are described, which have been realized with this adapted firmware ;-)
+
+
+# Chapters
 
 * [Radio operation](https://github.com/egzumer/uv-k5-firmware-custom/wiki/Radio-operation)
 
@@ -12,7 +17,8 @@ Welcome to the `uv-k5-firmware-custom` wiki!
 ![egzumer - display](https://github.com/egzumer/uv-k5-firmware-custom/assets/148579604/0ee03884-c7c3-4346-b338-15c9e8abd991)
 
 
-#
+# Read the wiki in your own language
+
 With the links below you can translate the info on this Wiki in your lanquage using Google translate.
 
 We have two languages predefined. But at the top of a translated screen you can adjust to your preferred language. 
