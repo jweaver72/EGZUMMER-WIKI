@@ -9,6 +9,8 @@ Buttons have functions assigned to them, these functions can be activated by eit
 ## `EXIT`
 * short press - exits current menu/function, deletes one digit in an input box
 * long press - deletes all input, exits DTMF input box
+## `UP/DOWN`
+* Move Upward/Downward in MEnu, Frequency, Settings, etc.
 ## `1 BAND`
 * `F+`
   * in `frequency mode` - switches frequency bands 1-7, there is also band 7+ for >1GHz frequencies
