@@ -9,6 +9,8 @@ Welcome to the uv-k5-firmware-custom wiki!
 * [Spectrum analyzer](https://github.com/egzumer/uv-k5-firmware-custom/wiki/Spectrum-analyzer)
 
 
+![egzumer - display](https://github.com/egzumer/uv-k5-firmware-custom/assets/148579604/0ee03884-c7c3-4346-b338-15c9e8abd991)
+
 
 #
 With the links below you can translate the info on this Wiki in your lanquage using Google translate.
