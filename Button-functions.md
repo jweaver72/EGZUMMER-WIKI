@@ -43,6 +43,10 @@ Buttons have functions assigned to them, these functions can be activated by eit
 ## `0 FM`
 * `F+` - turns on FM radio
 * long press - same
+
+If FM radio reception is active, it stops when a signal is received on a VFO/Memory- channel. If that signal stops, the FM radio switches back on after a five seconds.
+Bij pressing side-button-`PTT` you also temporary interrupt FM-reception.
+
 ## `* SCAN`
 * short press - enters DTMF input mode
 * `F+` - turns on CTCSS scanner for current frequency
