@@ -88,5 +88,11 @@ Available functions:
 * SWITCH VFO - change main VFO to upper/lower
 * VFO/MR - change current VFO mode, frequency mode or channel mode
 
+# External key
+## `PTT` 
+* Push To Talk button.
+* The PTT on external microphone acts different than the internal PTT (side-)button.
+On external PTT the TX waits until no RX-signal is received.
+
 #
 => [Return to Home](https://github.com/egzumer/uv-k5-firmware-custom/wiki)
