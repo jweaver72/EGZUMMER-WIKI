@@ -27,7 +27,7 @@ Just wait a moment and the firmware is loaded, or select a different file from y
 
 * Just wait ... until
 
-![100](https://github.com/egzumer/uv-k5-firmware-custom/assets/148579604/4cbcf252-dab0-45f8-b106-f753156eb95c)
+> ![100](https://github.com/egzumer/uv-k5-firmware-custom/assets/148579604/4cbcf252-dab0-45f8-b106-f753156eb95c)
 
 When finished, disconnect the programming interface and _enjoy a new release version_ ;-)
 
