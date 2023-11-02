@@ -94,7 +94,7 @@ The number in front of the menu-item-description is an **_menu item number_** th
    * DUAL RX RESPOND - listens to both frequencies, if signal is received on the secondary frequency it locks to it for a couple of seconds so you can respond to the call
    * CROSS BAND - always transmits on the primary and listens on the secondary frequency
    * MAIN TX DUAL RX - always transmits on the primary, listens to both
-1. `Sql` - squelch sensitivity level (0 .. 9)
+1. `Sql` - squelch sensitivity level (0=OFF/1 .. 9)
 
 # Hidden menu
 
