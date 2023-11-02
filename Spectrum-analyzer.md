@@ -1,7 +1,7 @@
 # Sweep screen
-Press `F` + `5 NOAA` to turn on spectrum analyzer. 
+Press `F` + `5 NOAA` to turn on the **Spectrum analyzer**. 
 
-The current VFO/Memory frequency is the **start frequency** of the spectrum sweep
+The current VFO/Memory frequency is the **_start frequency_** of the spectrum sweep
 
 ![Spectrum analyzer](https://github.com/egzumer/uv-k5-firmware-custom/assets/148579604/80dfe424-f5d4-432b-9b95-32d116db9bd9)
 
