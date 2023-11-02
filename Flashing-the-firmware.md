@@ -13,12 +13,11 @@ Just wait a moment and the firmware is loaded, or select a different file from y
 
 * Press flash firmware and a screen pops-up.
 
-If it is this screen, you are probably using Firefox.
-
-![Use Chrome in stead of Firefox](https://github.com/egzumer/uv-k5-firmware-custom/assets/148579604/086b5025-3058-49b5-8762-fa6e095f6706)
-
-Solution is to use Chrome.
-And than you can continue with ..
+> If it is this screen, you are probably using Firefox.
+> ![Use Chrome in stead of Firefox](https://github.com/egzumer/uv-k5-firmware-custom/assets/148579604/086b5025-3058-49b5-8762-fa6e095f6706)
+> 
+> Solution is to use Chrome.
+> And than you can continue with ..
 
 * Select the Com-port where the programming-interface is connected.
 
