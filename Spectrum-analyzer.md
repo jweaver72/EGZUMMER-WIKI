@@ -18,8 +18,8 @@ The current VFO/Memory frequency is the **start frequency** of the spectrum swee
 * `Side Button II` - toggle backlight
 * `EXIT` - exits to the previous screen/function
 * `PTT` - switch screen to _**detail monitoring**_ of last received frequency (_see below_)
+<br> 
 
-.
 # Detail Monitor screen
 ![Monitor Mode](https://github.com/egzumer/uv-k5-firmware-custom/assets/148579604/e5bbde26-06a8-4dd6-8434-74ae99a8e101)
 
@@ -34,8 +34,8 @@ The current VFO/Memory frequency is the **start frequency** of the spectrum swee
 > IF - Intermediate Frequency
 
 * `EXIT` - exits to the previous screen of the spectrum analyzer
+<br> 
 
-.
 # Documentation
 * Instruction for the Spectrum Analyzer
 [QuanSheng.UV.K5.Spectrum.analyzer.guide.EN.pdf](https://github.com/egzumer/uv-k5-firmware-custom/files/13242741/QuanSheng.UV.K5.Spectrum.analyzer.guide.EN.pdf)
