@@ -23,6 +23,7 @@ The current VFO/Memory frequency is the **start frequency** of the spectrum swee
 # Detail Monitor screen
 ![Monitor Mode](https://github.com/egzumer/uv-k5-firmware-custom/assets/148579604/e5bbde26-06a8-4dd6-8434-74ae99a8e101)
 
+##  Button functions
 * `M` - Scrolls through the parameters displayed at the bottom of the screen which can be adjusted with `UP/DOWN`
 > LNA$ - Low Noise Amplifier $
 >
