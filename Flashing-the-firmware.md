@@ -14,7 +14,7 @@ Just wait a moment and the firmware is loaded, or select a different file from y
 * Press flash firmware and a screen pops-up.
 * Select the Com-port where the programming-interface is connected.
 
-![Selecteer com-poort](https://github.com/egzumer/uv-k5-firmware-custom/assets/148579604/0b663992-2abc-4504-ae3b-6e3e2b55d5e6)
+![Connect to serial port](https://github.com/egzumer/uv-k5-firmware-custom/assets/148579604/476b88e3-4d46-43bd-a954-c4673fa6dd7e)
 
 * Press Connect and programming starts (White LED starts flashing) and view the progress in the browser-screen
 
