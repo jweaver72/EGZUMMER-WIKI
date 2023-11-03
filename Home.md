@@ -28,5 +28,9 @@ We have two languages predefined. But at the top of a translated screen you can 
 * [POLSKIE TŁUMACZENIE / Polisch translation](https://github-com.translate.goog/egzumer/uv-k5-firmware-custom/wiki?_x_tr_sl=en&_x_tr_tl=pl&_x_tr_hl=pl&_x_tr_pto=wapp)<BR>
 * [Nederlandse vertaling / Dutch translation](https://github-com.translate.goog/egzumer/uv-k5-firmware-custom/wiki?_x_tr_sl=en&_x_tr_tl=nl&_x_tr_hl=nl&_x_tr_pto=wapp)<BR>
 
+## Dutch channel list (chirp-format) for demo at 3 november 2023 
+
+* [Dutch-A05-2en70enLPDenPMR-Quansheng_UV-K5_20231103-rename-2-img.docx](https://github.com/egzumer/uv-k5-firmware-custom/files/13250726/Dutch-A05-2en70enLPDenPMR-Quansheng_UV-K5_20231103-rename-2-img.docx)
+
 #
 **_If you are (an English) native speaker and you see any language errors, please do the corrections, there should be an edit button. If editing needs some permissions create an issue, I will try to grant you access._**
