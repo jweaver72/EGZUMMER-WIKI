@@ -22,7 +22,7 @@ Once the menu item is selected, pressing the up and down arrow keys will adjust 
 # Main menu
 
 The number in front of the menu-item-description is an **_menu item number_** that can be used for quick selection.
-1. `Step` - step of the frequency (in kHz), up/down buttons change frequency by this value, also you can only set a frequency that is multiple of this value (1,25/2.50/6.25/10.00/12.50/25.00/8.33)
+1. `Step` - step of the frequency (in kHz), up/down buttons change frequency by this value, also you can only set a frequency that is multiple of this value. 2.50/5/6.25/10.00/12.50/25.00/8.33 are the steps that can be set by programming software, all other steps are extension from standard software, and can only be selected from this menu entry.
 1. `TxPwr` - radio output power (LOW/MID/HIGH)
 1. `RxDCS` - receiver Digital-Coded Squelch, if you enable this, squelch will only unlock if this code is being received
 1. `RxCTCS` - receiver Continuous Tone-Coded Squelch System, squelch will only unlock if this code is being received
@@ -36,7 +36,7 @@ The number in front of the menu-item-description is an **_menu item number_** th
 1. `Scramb` - scrambler, distorts the audio so it would be harder to understand for other listeners, if two radios use the same setting they can communicate
 1. `BusyCL` - busy channel lockout, blocks radio from transmitting while signal is being received
 1. `Compnd` - compander (compressor/expander), allows signals with a large dynamic range to be transmitted over facilities that have a smaller dynamic range capability, improves audio quality, both radios should use this option
-1. `Demodu` - demodulator mode, default is FM, AM/USB  can be used for listening only
+1. `Demodu` - demodulator mode, default is FM, AM/USB can be used for listening only
 1. `ScAdd1` - add channel to scan list 1
 1. `ScAdd2` - add channel to scan list 2
 1. `ChSave` - save current setting to a memory channel
