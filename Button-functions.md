@@ -96,3 +96,4 @@ Available functions:
 * LOCK KEYPAD - lock/unlock the keypad
 * SWITCH VFO - change main VFO to upper/lower
 * VFO/MR - change current VFO mode, frequency mode or channel mode
+* SWITCH DEMODUL - switch to the next demodulation mode (FM/AM/USB)
