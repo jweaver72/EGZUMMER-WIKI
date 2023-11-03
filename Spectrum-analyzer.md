@@ -1,4 +1,4 @@
-# Sweep screen
+# Spectrum Sweep screen
 Press `F` + `5 NOAA` to turn on the **Spectrum analyzer**. 
 
 The current VFO/Memory frequency is the **_start frequency_** of the spectrum sweep
