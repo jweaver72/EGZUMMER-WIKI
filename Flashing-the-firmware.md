@@ -2,9 +2,9 @@ Flashing firmware is possible with a separate program, but can now be done much 
 
 Just goto the page with official released [egzumer firmware releases](https://github.com/egzumer/uv-k5-firmware-custom/releases).
 
-* First put the UV-K5 in programming mode (press `PTT` and turn on the UV-K5 and check that the _**WHITE LED**_ lights up).
+* First put the UV-K5 in programming mode (press `PTT` and turn on the UV-K5 and check that the _**white LED**_ lights up).
 
-* Now connect the programming interface and a **_BLUE LED_** also lights up.
+* Now connect the programming interface and a **_blue LED_** also lights up.
 
 * Select the latest/desired firmware and look for 
  `🗲FLASH WITH A BROWSER🗲`
