@@ -7,6 +7,10 @@ In the `frequency mode` you manually type in the frequency with the keypad. You 
 
 In the `channel mode` you can switch between saved memory channels. Memory channels can be added manually as mentioned before or with a computer software. You can use either Quansheng `Portable Radio CPS` or the recommended open source software called [`Chirp`](https://chirp.danplanet.com/projects/chirp/wiki/Download).
 
+## How2 use Chirp with this radio.
+
+Press the programming cable firmly into the radio and check that a _**Blue LED**_ lights up near the antenna.
+
 Initially, Chirp comes with popup. Configure that something like this.
 
 > ![Chirp-setup-USB-interface-for-UV-K5](https://github.com/egzumer/uv-k5-firmware-custom/assets/148579604/ade103ca-a367-4531-b699-523f68fe8aee)
