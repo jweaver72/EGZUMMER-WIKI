@@ -43,8 +43,9 @@ You can change the scan direction while scanning with `UP/DOWN` buttons.
 
 The scan can be stopped with the `EXIT` button, the search result will be ignored and frequency/channel will return to the one that was set before scan begun. Alternatively you can stop the scan with `PTT` or `MENU` button in which case the frequency/channel will be set to the last channel where transmission was found.
 
-# 1750 Hz toneburst for repeater access.
-When the `PTT` is pressed, the 1750 Hz can be activated by pressing `function key 2` (side key 2, bottom).
+# 1750 Hz toneburst for repeater access
+
+When the `PTT` is pressed, the 1750 Hz can be activated by pressing [`Function-button-II`](https://github.com/egzumer/uv-k5-firmware-custom/wiki/Button-functions#function-button-ii) (side key 2, bottom)
 
 
 # DTMF calling (decoding)
