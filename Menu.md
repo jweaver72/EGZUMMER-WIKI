@@ -34,7 +34,7 @@ The number in front of the menu-item-description is an **_menu item number_** th
    * WIDE - 25kHz
    * NARROW - 12.5kHz
 1. `Scramb` - scrambler, distorts the audio so it would be harder to understand for other listeners, if two radios use the same setting they can communicate
-1. `BusyCL` - busy channel lockout, blocks radio from transmitting while signal is being received
+1. `BusyCL` - busy channel lockout, blocks radio from transmitting because signal is being received (with **BUSY** on screen while PTT is pressed).
 1. `Compnd` - compander (compressor/expander), allows signals with a large dynamic range to be transmitted over facilities that have a smaller dynamic range capability, improves audio quality, both radios should use this option
 1. `Demodu` - demodulator mode, default is FM, AM/USB can be used for listening only
 1. `ScAdd1` - add channel to scan list 1
