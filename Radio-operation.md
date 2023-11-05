@@ -9,6 +9,8 @@ In the `channel mode` you can switch between saved memory channels. Memory chann
 
 ## How2 use Chirp with this radio.
 
+Use a Baofeng/Kenwood-like USB-2-Serial-cable with CH340-chip inside.
+
 Press the programming cable firmly into the radio and check that a _**blue LED**_ lights up near the antenna.
 
 Initially, Chirp comes with popup. Configure that something like this.
