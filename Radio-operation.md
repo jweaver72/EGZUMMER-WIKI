@@ -45,7 +45,7 @@ The scan can be stopped with the `EXIT` button, the search result will be ignore
 
 # 1750 Hz toneburst for repeater access
 
-When the `PTT` is pressed, the 1750 Hz can be activated by pressing [`Function-button-II`](https://github.com/egzumer/uv-k5-firmware-custom/wiki/Button-functions#function-button-ii) (side key 2, bottom)
+When the `PTT` is pressed, the 1750 Hz can be activated by pressing [`Function-button-II`](https://github.com/egzumer/uv-k5-firmware-custom/wiki/Button-functions#function-button-ii) (_side key 2, bottom_)
 
 
 # DTMF calling (decoding)
