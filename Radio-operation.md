@@ -9,7 +9,7 @@ In the `channel mode` you can switch between saved memory channels. Memory chann
 
 ## How2 use Chirp with this radio.
 
-Press the programming cable firmly into the radio and check that a _**Blue LED**_ lights up near the antenna.
+Press the programming cable firmly into the radio and check that a _**blue LED**_ lights up near the antenna.
 
 Initially, Chirp comes with popup. Configure that something like this.
 
