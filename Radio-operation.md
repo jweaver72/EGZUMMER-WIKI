@@ -47,7 +47,7 @@ The scan can be stopped with the `EXIT` button, the search result will be ignore
 
 # Single frequency scanning (frequency copy), DCS/CTCSS scanning
 
-This function will allow you to find out and copy frequency and coding settings. The frequency search will only work for strong signals. The transmitting radio has to be close. To start a frequency copy (FC) function use `4 FC` function button. Scanner screen will open. Push and hold a PTT button on the other radio. Wait couple of seconds until frequency and code (if used) appears on the screen. The settings can be saved with with the `MENU` button. The settings will be save either to a channel or the main VFO, depending in which mode you started the scan.
+This function will allow you to find out and copy frequency and coding settings. The frequency search will only work for strong signals. The transmitting radio has to be close. To start a frequency copy (FC) function use `4 FC` function button. Scanner screen will open. Push and hold a PTT button on the other radio. Wait couple of seconds until frequency and code (if used) appears on the screen. The settings can be saved with the `MENU` button. The settings will be save either to a channel or the main VFO, depending in which mode you started the scan.
 
 You can also search only the DCS/CTCSS code for a frequency set on the main VFO. Choose desired frequency or channel and press `F` + `* SCAN`. The same screen will appear, but the frequency search will be omitted, instead the frequency of the main VFO will be used. Wait for a signal to appear or press the PTT on the other radio. It takes 1-2sec for the code to be found. The save procedure is the same as above.
 
