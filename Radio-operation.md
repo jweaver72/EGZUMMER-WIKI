@@ -51,7 +51,7 @@ This function will allow you to find out and copy frequency and coding settings.
 
 You can also search only the DCS/CTCSS code for a frequency set on the main VFO. Choose desired frequency or channel and press `F` + `* SCAN`. The same screen will appear, but the frequency search will be omitted, instead the frequency of the main VFO will be used. Wait for a signal to appear or press the PTT on the other radio. It takes 1-2sec for the code to be found. The save procedure is the same as above.
 
-There is another option of DCS/CTCSS code scanning. Choose desired frequency or a channel. Go to the menu `RxDCS` or `RxCTCS`. Enter the menu option and press `* SCAN` button. A SCAN label will appear. Wait for a radio signal or press the PTT button on the other radio. When code is found the SCAN label will disappear, to save confirm the option with the `MENU` button. It doesn't matter on which of the two menu items you start the scan. Both DCS and CTCSS will always be found, and the menu entry will change to the correct one.
+There is another option of DCS/CTCSS code scanning. Choose desired frequency or a channel. Go to the menu `RxDCS` or `RxCTCS`. Enter the menu option and press `* SCAN` button. A SCAN label will appear. Wait for a radio signal or press the PTT button on the other radio. When code is found the SCAN label will disappear, to save confirm the option with the `MENU` button. It doesn't matter on which of the two menu items you start the scan. Both DCS and CTCSS will always be found, and the menu entry will be changed to the correct one.
 
 # 1750 Hz toneburst for repeater access
 
