@@ -24,8 +24,8 @@ Once the menu item is selected, pressing the up and down arrow keys will adjust 
 The number in front of the menu-item-description is an **_menu item number_** that can be used for quick selection.
 1. `Step` - step of the frequency (in kHz), up/down buttons change frequency by this value, also you can only set a frequency that is multiple of this value. 2.50/5/6.25/10.00/12.50/25.00/8.33 are the steps that can be set by programming software, all other steps are extension from standard software, and can only be selected from this menu entry.
 1. `TxPwr` - radio output power (LOW/MID/HIGH)
-1. `RxDCS` - receiver Digital-Coded Squelch, if you enable this, squelch will only unlock if this code is being received
-1. `RxCTCS` - receiver Continuous Tone-Coded Squelch System, squelch will only unlock if this code is being received
+1. `RxDCS` - receiver Digital-Coded Squelch, if you enable this, squelch will only unlock if this code is being received. You can start a DCS/CTCSS scan while you are in this menu option by pressing `* SCAN` button
+1. `RxCTCS` - receiver Continuous Tone-Coded Squelch System, squelch will only unlock if this code is being received. You can start a DCS/CTCSS scan while you are in this menu option by pressing `* SCAN` button
 1. `TxDCS` - transmitter Digital-Coded Squelch, radio will send given code while transmitting
 1. `TxCTCS` - transmitter Continuous Tone-Coded Squelch System, radio will send given code while transmitting
 1. `TxODir` - transmitter frequency offset direction
