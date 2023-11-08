@@ -28,7 +28,7 @@ With the links below you can translate the info on this Wiki in your lanquage us
 
 We have two languages predefined. But at the top of a translated screen you can adjust to your preferred language. 
 
-* [POLSKIE TŁUMACZENIE / Polisch translation](https://github-com.translate.goog/egzumer/uv-k5-firmware-custom/wiki?_x_tr_sl=en&_x_tr_tl=pl&_x_tr_hl=pl&_x_tr_pto=wapp)<BR>
+* [POLSKIE TŁUMACZENIE / Polish translation](https://github-com.translate.goog/egzumer/uv-k5-firmware-custom/wiki?_x_tr_sl=en&_x_tr_tl=pl&_x_tr_hl=pl&_x_tr_pto=wapp)<BR>
 * [Nederlandse vertaling / Dutch translation](https://github-com.translate.goog/egzumer/uv-k5-firmware-custom/wiki?_x_tr_sl=en&_x_tr_tl=nl&_x_tr_hl=nl&_x_tr_pto=wapp)<BR>
 
 ## Dutch channel list (chirp-format) for demo at 3 november 2023 
