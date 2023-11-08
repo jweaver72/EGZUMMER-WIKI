@@ -25,4 +25,4 @@ CREDITS: https://github.com/Tunas1337/UV-K5-Modded-Firmwares#even-bigger-warning
 1. Go to [hidden menu](https://github.com/egzumer/uv-k5-firmware-custom/wiki/Menu#hidden-menu)
 1. Enter menu `F-Lock`
 1. Choose option `UNLOCK ALL`
-1. Repeat steps 2-3 10 times. Do it carefully, if you confirm any other option in the process counter will get zeroed and you will have to repeat that 10 time more.
+1. Repeat steps 2-3 10 times. Do it carefully, if you confirm any other option in the process counter will get zeroed and you will have to repeat that 10 times more.
