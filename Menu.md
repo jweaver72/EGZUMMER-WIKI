@@ -102,13 +102,20 @@ Hidden menu is activated by holding `PTT` + `SIDE BUTTON 1` while turning on the
 
 The number in front of the menu-item-description is an **_menu item number_** that can be used for quick selection.
 
-61. `F Lock` - sets the frequency band plan for certain area (OFF/FCC/CE/GB/430/438)
+61. `F Lock` - sets the TX frequency band plan 
+   * DEFAULT+ (137-174, 400-470) - allows TX on default bands, plus options `Tx 200`, `Tx 350`, `Tx 500`
+   * FCC HAM (144-148, 420-450)
+   * CE HAM (144-146, 430-440)
+   * GB HAM (144-148, 430-440)
+   * (137-174, 400-430)
+   * (137-174, 400-438)
+   * DISABLE ALL - disables TX on all frequencies
+   * UNLOCK ALL - enables TX on all bands
 1. `Tx 200` - enables TX on 200MHz
 1. `Tx 350` - enables TX on 350MHz
 1. `Tx 500` - enables TX on 500MHz
 1. `350 En` - enables RX on 350MHz
 1. `ScraEn` - enables scrambler function
-1. `TxEnab` - when set to OFF disables TX on all frequencies
 1. `BatCal` - battery calibration, measure the voltage on the back of the radio, and adjust the value in the menu accordingly
 1. `BatTyp` - battery type, 1600mAh and 2200mAh battery has very different discharge curve, this is used to calculate battery level percentage
 1. `Reset` - resets radio configuration settings
