@@ -102,15 +102,15 @@ Hidden menu is activated by holding `PTT` + `SIDE BUTTON 1` while turning on the
 
 The number in front of the menu-item-description is an **_menu item number_** that can be used for quick selection.
 
-61. `F Lock` - sets the TX frequency band plan 
-   * DEFAULT+ (137-174, 400-470) - allows TX on default bands, plus options `Tx 200`, `Tx 350`, `Tx 500`
-   * FCC HAM (144-148, 420-450)
-   * CE HAM (144-146, 430-440)
-   * GB HAM (144-148, 430-440)
-   * (137-174, 400-430)
-   * (137-174, 400-438)
-   * DISABLE ALL - disables TX on all frequencies
-   * UNLOCK ALL - enables TX on all bands
+61. `F Lock` - sets the TX frequency band plan
+    * DEFAULT+ (137-174, 400-470) - allows TX on default bands, plus options `Tx 200`, `Tx 350`, `Tx 500`
+    * FCC HAM (144-148, 420-450)
+    * CE HAM (144-146, 430-440)
+    * GB HAM (144-148, 430-440)
+    * (137-174, 400-430)
+    * (137-174, 400-438)
+    * DISABLE ALL - disables TX on all frequencies
+    * UNLOCK ALL - enables TX on all bands
 1. `Tx 200` - enables TX on 200MHz
 1. `Tx 350` - enables TX on 350MHz
 1. `Tx 500` - enables TX on 500MHz
