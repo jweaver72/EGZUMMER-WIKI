@@ -87,7 +87,7 @@ Menu items for DTMF calling:
 
 **This modification is UNTESTED and is for RESEARCH PURPOSES ONLY, to explore the capabilities of the device and its chipset. DO NOT transmit on illegal frequencies. DO use a dummy load. The author(s) and contributor(s) of this repository are NOT liable for any damages, litigation, or other consequences of the misuse of this research firmware and do not accept any culpability. By installing any firmware from this repository, you accept full responsibility for any consequences that may arise and waive the right to pursue legal action against the author(s).**
 
-This option won't give you ability to transmit in any other modulation that FM, this is hardware limitation. Switching to AM or SSB only switches AF audio output mode of a RF IC. It doesn't switch the whole IC into AM/SSB mode. This is for listening only. This firmware is also built with additional lock that blocks TX when AM or SSB is on.
+This option won't give you ability to transmit in any other modulation than FM, this is hardware limitation. Switching to AM or SSB only switches AF audio output mode of a RF IC. It doesn't switch the whole IC into AM/SSB mode. This is for listening only. This firmware is also built with additional lock that blocks TX when AM or SSB is on.
 
 As an example against using this for actual communications, consider the following chart for transmission power for a transmission at 27.254MHz:
 
