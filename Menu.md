@@ -110,7 +110,7 @@ The number in front of the menu-item-description is an **_menu item number_** th
     * (137-174, 400-430)
     * (137-174, 400-438)
     * DISABLE ALL - disables TX on all frequencies
-    * UNLOCK ALL - enables TX on all bands (it has additional lock, read a wiki on [how to turn that on](https://github.com/egzumer/uv-k5-firmware-custom/wiki/TX-on-all-bands))
+    * UNLOCK ALL - enables TX on all bands (it has additional lock, read a wiki on [how to turn that on](https://github.com/egzumer/uv-k5-firmware-custom/wiki/Radio-operation#tx-on-all-bands))
 1. `Tx 200` - enables TX on 200MHz
 1. `Tx 350` - enables TX on 350MHz
 1. `Tx 500` - enables TX on 500MHz
