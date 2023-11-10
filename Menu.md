@@ -12,6 +12,9 @@ Once in the main menu, the menu items will be displayed on the left-hand side of
 
 To find the menu item to access, the `UP/DOWN`arrow keys may be used, or the **_menu item number_** (see lists below) may be entered on the numeric keypad. For instance, to access the VOX settings, the down arrow can be pressed 57 times, or the number 57 can be entered on the keypad.
 
+## Tip
+I would like to refer to setting **33.`ChDisp`-channel display** style which can be set to `name + frequency`
+
 ## Accessing a Menu Item
 Once the desired menu item is highlighted, pressing the `M`enu key will enter into that menu item.
 
