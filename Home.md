@@ -1,8 +1,8 @@
 # Welcome to the `uv-k5-firmware-custom` wiki!
 
-On this wiki the (custom and extended) functions are described, which have been realized with this adapted firmware ;-)
+On this wiki the (custom and extended) functions are described, which have been realized with this adapted firmware. Now released as [`v0.17`](https://github.com/egzumer/uv-k5-firmware-custom/releases)
 
-This Manual is located as Wiki at https://github.com/egzumer/uv-k5-firmware-custom/wiki and has been updated for [`Release v0.17`](https://github.com/egzumer/uv-k5-firmware-custom/releases)
+This Manual is located as Wiki at https://github.com/egzumer/uv-k5-firmware-custom/wiki
 
 If you have a _suggestion to add to this Wiki_, please report the suggestion here under [Discussion](https://github.com/egzumer/uv-k5-firmware-custom/discussions).
 
