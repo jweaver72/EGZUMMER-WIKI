@@ -37,5 +37,7 @@ We have two languages predefined. But at the top of a translated screen you can 
 
 * [Dutch-A05-2en70enLPDenPMR-Quansheng_UV-K5_20231103-rename-2-img.docx](https://github.com/egzumer/uv-k5-firmware-custom/files/13250787/Dutch-A05-2en70enLPDenPMR-Quansheng_UV-K5_20231103-rename-2-img.docx)
 
+> Rename extention from .docx to .img and use Chirp to load it into radio.
+
 #
 **_If you are (an English) native speaker and you see any language errors, please do the corrections, there should be an edit button. If editing needs some permissions create an issue, I will try to grant you access._**
