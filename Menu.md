@@ -93,10 +93,10 @@ The number in front of the menu-item-description is an **_menu item number_** th
 1. `VOX` - voice TX activation sensitivity level VOX Setting (OFF/1 .. 10)
 1. `BatVol` - battery voltage and percentage
 1. `RxMode` - sets how how the upper and lower frequency is used
-   * MAIN ONLY - always transmits and listens on the main frequency 
-   * DUAL RX RESPOND - listens to both frequencies, if signal is received on the secondary frequency it locks to it for a couple of seconds so you can respond to the call
-   * CROSS BAND - always transmits on the primary and listens on the secondary frequency
-   * MAIN TX DUAL RX - always transmits on the primary, listens to both
+   * MAIN ONLY - always transmits and listens on the main frequency (NO extra characters on screen)
+   * DUAL RX RESPOND - listens to both frequencies, if signal is received on the secondary frequency it locks to it for a couple of seconds so you can respond to the call (**`DWR`** on screen)
+   * CROSS BAND - always transmits on the primary and listens on the secondary frequency (**`XB`** on screen)
+   * MAIN TX DUAL RX - always transmits on the primary, listens to both (**`DW`** on screen)
 1. `Sql` - squelch sensitivity level (0=OFF/1 .. 9)
 
 # Hidden menu
