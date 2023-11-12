@@ -10,15 +10,14 @@ Buttons have functions assigned to them, these functions can be activated by eit
 * short press - exits current menu/function, deletes one digit in an input box
 * long press - deletes all input, exits DTMF input box
 ## `UP/DOWN`
-* Move Upward/Downward in MEnu, Frequency, Settings, etc.
+* Move Upward/Downward in Menu, Frequency, Settings, etc.
 ## `1 BAND`
 * `F+`
   * in `frequency mode` - switches frequency bands 1-7, there is also band 7+ for >1GHz frequencies
   * in `channel mode` - channel settings are copied to frequency mode
 * long press - same
 ## `2 A/B`
-* `F+` - switch main channel/vfo upper/lower
-
+* `F+` - switch main channel/vfo upper/lower (see arrow)
 * long press - same
 ## `3 VFO/MR`
 * `F+` - switch between frequency and channel modes
