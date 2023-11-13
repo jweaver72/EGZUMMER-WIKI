@@ -95,8 +95,12 @@ The number in front of the menu-item-description is an **_menu item number_** th
 1. `RxMode` - sets how how the upper and lower frequency is used
    * MAIN ONLY - always transmits and listens on the main frequency (NO extra characters on screen)
    * DUAL RX RESPOND - listens to both frequencies, if signal is received on the secondary frequency it locks to it for a couple of seconds so you can respond to the call (**`DWR`** on screen)
-   * CROSS BAND - always transmits on the primary and listens on the secondary frequency (**`XB`** on screen)
+   * CROSS BAND - always transmits on the MAIN/primary and listens on the secondary frequency (**`XB`** on screen)
    * MAIN TX DUAL RX - always transmits on the primary, listens to both (**`DW`** on screen)
+>    * The main channel is marked `►` and with PTT active `►TX`
+>    * A receiving channel is marked `RX` as soon as a signal is received. Other VFO/channel is blocked from RX.
+>    * With DUAL RX RESPOND, the secondary VFO/channel is marked `>` as temporarily the main channel when something is received there. 
+>    * If nothing is received after a timer of 4 seconds (`><` on screen), that status will expire.
 1. `Sql` - squelch sensitivity level (0=OFF/1 .. 9)
 
 # Hidden menu
