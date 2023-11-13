@@ -1,7 +1,7 @@
 # Basic operation & configuration
 Radio display is split into upper VFO and lower VFO. You can change upper/lower selection by pressing `F` + `2 A/B` (or by long press `2 A/B`).
 
-Each VFO can independently of each other function in either frequency or channel mode. To switch modes select the desired VFO and press `F` + `3 VFO/MR` (or long press `3 VFO/MR`).
+Each VFO can operate independently of each other function in either frequency or channel mode. To switch modes select the desired VFO and press `F` + `3 VFO/MR` (or long press `3 VFO/MR`).
 
 In the `frequency mode` you manually type in the frequency with the keypad. You can also switch different options for that VFO in the menu (first 13 menu entries). If you setup the VFO, the settings can be saved to a memory channel by going into the menu `ChSave` and choosing the memory channel the VFO should be saved into.
 
