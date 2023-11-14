@@ -20,7 +20,7 @@ Buttons have functions assigned to them, these functions can be activated by eit
 * `F+` - switch main channel/vfo upper/lower (see arrow `►`)
 * long press - same
 ## `3 VFO/MR`
-* `F+` - switch between frequency and channel modes
+* `F+` - switch between frequency and channel mode
 * long press - same
 ## `4 FC`
 * `F+` - turns on frequency and CTCSS copy mode, turn the scan on and start transmitting with the other radio, the frequency and CTCSS code will be detected, you can save those setting with `M` button
