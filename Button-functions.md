@@ -17,7 +17,7 @@ Buttons have functions assigned to them, these functions can be activated by eit
   * in `channel mode` - channel settings are copied to frequency mode
 * long press - same
 ## `2 A/B`
-* `F+` - switch main channel/vfo upper/lower (see arrow)
+* `F+` - switch main channel/vfo upper/lower (see arrow `►`)
 * long press - same
 ## `3 VFO/MR`
 * `F+` - switch between frequency and channel modes
