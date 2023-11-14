@@ -92,7 +92,7 @@ The number in front of the menu-item-description is an **_menu item number_** th
 1. `AM Fix` - activates autogain AM fix function
 1. `VOX` - voice TX activation sensitivity level VOX Setting (OFF/1 .. 10)
 1. `BatVol` - battery voltage and percentage
-1. `RxMode` - sets how how the upper and lower frequency is used
+1. `RxMode` - sets how the upper and lower frequency is used
    * MAIN ONLY - always transmits and listens on the main frequency (NO extra characters on screen)
    * DUAL RX RESPOND - listens to both frequencies, if signal is received on the secondary frequency it locks to it for a couple of seconds so you can respond to the call (**`DWR`** on screen)
    * CROSS BAND - always transmits on the MAIN/primary and listens on the secondary frequency (**`XB`** on screen)
