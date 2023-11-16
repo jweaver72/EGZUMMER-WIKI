@@ -71,11 +71,12 @@ If FM radio reception is active, it stops when a signal is received on a Frequen
 * long press - user programmable in the menu: `F2Long`
 * this button can also be used to send tone 1750Hz by holding it together with `PTT` button
 
-# External key
+# External key/microphone
 ## `PTT` 
 * Push To Talk button.
-* The PTT on external microphone acts different than the internal PTT (side-)button.
-On external PTT the TX waits until no RX-signal is received.
+* The 'PTT on the external microphone' works differently than the 'internal PTT' (side) button.
+> * - When pressing the PTT, the TX waits until no RX signal is received (observed with Internal PCB revision V1.4 and OK with V1.6). Works well when pressing the 'internal PTT'.
+> * - A DTMF-tone (key-press) or 1750Hz-tone (side button) is cut off within a second. Works well when pressing the 'internal PTT'.
 
 # Custom button functions
 3 buttons can have its function changed. To change the function go to menu:
