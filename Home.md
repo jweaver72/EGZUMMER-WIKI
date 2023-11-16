@@ -2,9 +2,18 @@
 
 On this wiki the (custom and extended) functions are described, which have been realized with this adapted firmware ([`release v0.17`](https://github.com/egzumer/uv-k5-firmware-custom/releases)).
 
-This Manual is located as Wiki at https://github.com/egzumer/uv-k5-firmware-custom/wiki.
+This firmware unlocks the full frequency range of the radio and expands the capabilities of the Quansheng UV-K5 (-serie).  
+Original range 50 - 600 Mhz and now 18 MHz ~ 660 MHz and 840 ~ 1300 MHz. 
+Note: _The RF BK4819, is the basis of the radio, has a hardware limitation (630 - 840 Mhz.)_.
 
-If you have a _suggestion to add to this Wiki_, please report the suggestion here under [Discussion](https://github.com/egzumer/uv-k5-firmware-custom/discussions).
+Some of the other capabilities this modified firmware opens up is the ability to receive in various other modes, such as FM, AM and USB. 
+The screen has an TX-audio signal strength indication and RX signal strength indication (S-meter) and the possibility to show channelname and frequentie of both VFO's.
+
+* **Warning**: Modifying a radio may violate various laws or regulations of some nations. Not all of these capabilities will be allowed in order to comply with various regulations. 
+
+* This _Manual_ is located as Wiki at https://github.com/egzumer/uv-k5-firmware-custom/wiki.
+
+* If you have a _suggestion to add to this Wiki_, please report the suggestion here under [Discussion](https://github.com/egzumer/uv-k5-firmware-custom/discussions).
 
 # Chapters
 
