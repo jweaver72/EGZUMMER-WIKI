@@ -6,7 +6,7 @@ This firmware unlocks the full frequency range of the radio and expands the capa
 Original range 50 - 600 Mhz and now 18 MHz ~ 660 MHz and 840 ~ 1300 MHz. 
 Note: _The RF BK4819, is the basis of the radio, has a hardware limitation (630 - 840 Mhz.)_.
 
-Some of the other capabilities is the ability to receive in various other modes, such as FM, AM and USB. 
+Some of the other capabilities is the ability to receive in various modes (FM, AM and USB). 
 The screen has an TX-audio signal strength indication and RX signal strength indication (S-meter) and the possibility to show channelname and frequentie of both VFO's.
 
 * **Warning**: Modifying a radio may violate various laws or regulations of some nations. Not all of these capabilities will be allowed in order to comply with various regulations. 
