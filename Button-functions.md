@@ -52,7 +52,7 @@ If FM radio reception is active, it stops when a signal is received on a Frequen
 * long press - in channel mode turns on channel scanner, in frequency mode turns on frequency scanner. When pressed while channel scan is in progress toggles scan lists 1/2/ALL
 ## `F # 🗝`
 * short press - toggles function option
-* long press - turns on/off key lock
+* long press - turns on/off key lock all the keys of the Front keypad
 
 # Side buttons
 
