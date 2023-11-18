@@ -14,7 +14,7 @@ The screen has an TX-audio signal strength indication and RX signal strength ind
 
 * This _Manual_ is located as Wiki at https://github.com/egzumer/uv-k5-firmware-custom/wiki.
 
-* If you have a _suggestion to add to this Wiki_, please report the suggestion here under [Discussion](https://github.com/egzumer/uv-k5-firmware-custom/discussions?discussions_q=).
+* If you have a _suggestion to add to this Wiki_, please report the suggestion here under [Discussions](https://github.com/egzumer/uv-k5-firmware-custom/discussions?discussions_q=).
 
 # Chapters
 
