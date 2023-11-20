@@ -2,9 +2,15 @@ Flashing firmware is possible with a separate program, but can now be done much 
 
 Just goto the page with official released [egzumer firmware releases](https://github.com/egzumer/uv-k5-firmware-custom/releases).
 
-* First put the UV-K5 in programming mode (press `PTT` and turn on the UV-K5 and check that the _**white LED**_ lights up).
+* Use a Baofeng/Kenwood-like USB-2-Serial-cable with CH340-chip inside and connect it to your computer.
 
-* Now connect the programming interface and a **_blue LED_** also lights up.
+* Press the programming cable firmly into the radio and check if a `plug icon` is displayed (top right), to the left of the `battery icon`.
+
+![ProgramCable-Inserted](https://github.com/egzumer/uv-k5-firmware-custom/assets/148579604/456bfa53-4457-4282-bed4-14205a917175)
+
+* Switch of UV-K5
+
+* Put the UV-K5 in programming mode (press `PTT` and turn on the UV-K5 and check that the _**white LED**_ lights up).
 
 * Select the latest/desired firmware and look for 
  `🗲FLASH WITH A BROWSER🗲`
