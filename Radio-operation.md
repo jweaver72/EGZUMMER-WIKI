@@ -11,7 +11,7 @@ In the `channel mode` you can switch between saved memory channels. Memory chann
 
 Use a Baofeng/Kenwood-like USB-2-Serial-cable with CH340-chip inside and connect it to your computer.
 
-Press the programming cable firmly into the radio and check if a `plug icon` is displayed (top right), to the left of the `battery icon`.
+Press the programming cable _firmly_ into the radio and check if a `plug icon` is displayed (top right), to the left of the `battery icon`.
 
 ![ProgramCable-Inserted](https://github.com/egzumer/uv-k5-firmware-custom/assets/148579604/456bfa53-4457-4282-bed4-14205a917175)
 
