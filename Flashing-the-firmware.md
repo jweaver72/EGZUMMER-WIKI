@@ -2,7 +2,7 @@ Flashing firmware is possible with a separate program, but can now be done much 
 
 Just goto the page with official released [egzumer firmware releases](https://github.com/egzumer/uv-k5-firmware-custom/releases).
 
-* Use a Baofeng/Kenwood-like USB-2-Serial-cable with CH340-chip inside and connect it to your computer.
+* Use a Baofeng/Kenwood-like USB-2-Serial-cable and connect it to your computer.
 
 * Press the programming cable _firmly_ into the radio
 
