@@ -7,8 +7,6 @@ In the `frequency mode` you manually type in the frequency with the keypad. You 
 
 In the `channel mode` you can switch between saved memory channels. Memory channels can be added manually as mentioned before or with a computer software. You can use either Quansheng `Portable Radio CPS` or the recommended open source software called [`Chirp`](https://chirp.danplanet.com/projects/chirp/wiki/Download).
 
-Just keep in mind that this firmware's options are expanded in many cases. Some functions or settings may not be available in the computer software, e.g. backlight timeout will have different settings, backlight brightness or MENU button long press function won't be available at all, etc. Those can be changed only in the radio menu.
-
 # Frequency/Memory scanning
 
 ## Frequency scanning
