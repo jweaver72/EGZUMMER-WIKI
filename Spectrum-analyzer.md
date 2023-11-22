@@ -3,7 +3,7 @@ Press `F` + `5 NOAA` to turn on the **Spectrum analyzer**.
 
 The current VFO/Memory frequency is the **_start frequency_** of the spectrum sweep
 
-![Spectrum analyzer](https://github.com/egzumer/uv-k5-firmware-custom/assets/148579604/80dfe424-f5d4-432b-9b95-32d116db9bd9)
+<img src="https://github.com/egzumer/uv-k5-firmware-custom/assets/148579604/80dfe424-f5d4-432b-9b95-32d116db9bd9" width=300 />
 
 ##  Button functions
 * `1` / `7` - increase/decrease the channel separation of a single bar in the graph (typically 25.0 kHz)
@@ -21,7 +21,7 @@ The current VFO/Memory frequency is the **_start frequency_** of the spectrum sw
 <br> 
 
 # Detail Monitor screen
-![Monitor Mode](https://github.com/egzumer/uv-k5-firmware-custom/assets/148579604/e5bbde26-06a8-4dd6-8434-74ae99a8e101)
+<img src="https://github.com/egzumer/uv-k5-firmware-custom/assets/148579604/e5bbde26-06a8-4dd6-8434-74ae99a8e101" width=300 />
 
 ##  Button functions
 * `M` - Scrolls through the parameters displayed at the bottom of the screen which can be adjusted with `UP/DOWN`
