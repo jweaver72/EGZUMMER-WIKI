@@ -2,10 +2,7 @@
 The radio includes a menu system that uses a short term to describe a function that can be somewhat unclear to users, especially users for whom this is their first radio. This explanation of the menu items should help all users understand each menu item.
 
 ## Entering the Menu
-The large key labeled `M` on the radio serves to enter the menu of the radio. A short press will open the menu to the last item accessed in the menu. 
-
-## Exiting the Menu
-The large key labeled `EXIT` on the radio serves to exit the menu of the radio. A short press will exit the menu. A long press registers as a short press and exits the menu.
+The large key labeled `M` on the radio serves to enter the menu of the radio.
 
 ## Selecting a Menu Item
 Once in the main menu, the menu items will be displayed on the left-hand side of the screen. The currently selected menu item will be highlighted. The currently selected value for that menu item will be shown on the right. Also, at the bottom of the left-hand side is shown the number of the menu item, ranging from 01 to highest number (originally 51 and now upto 60 and with Hidden-menu up to 70). 
