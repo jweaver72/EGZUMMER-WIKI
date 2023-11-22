@@ -1,20 +1,14 @@
-# Using the Menu
-The radio includes a menu system that uses a short term to describe a function that can be somewhat unclear to users, especially users for whom this is their first radio. This explanation of the menu items should help all users understand each menu item.
+# Menu operation
 
-## Entering the Menu
-The large key labeled `M` on the radio serves to enter the menu of the radio.
+The menu can be accessed with an `M` button.
 
-## Selecting a Menu Item
-Once in the main menu, the menu items will be displayed on the left-hand side of the screen. The currently selected menu item will be highlighted. The currently selected value for that menu item will be shown on the right. Also, at the bottom of the left-hand side is shown the number of the menu item, ranging from 01 to highest number (originally 51 and now upto 60 and with Hidden-menu up to 70). 
+Once in the main menu, the menu items will be displayed on the left-hand side of the screen. The currently selected menu item will be highlighted and current value for that menu item will be shown on the right. Also, at the bottom left side a number of the menu item will be shown, ranging from 01 to the highest number. 
 
-To find the menu item to access, the `UP/DOWN`arrow keys may be used, or the **_menu item number_** (see lists below) may be entered on the numeric keypad. For instance, to access the VOX settings, the down arrow can be pressed 57 times, or the number 57 can be entered on the keypad.
+To find the menu item to access, the `UP/DOWN` arrow keys may be used, or the **_menu item number_** (see lists below) may be entered on the numeric keypad. For instance, to access the VOX settings a number 57 can be entered on the keypad.
 
-## Accessing a Menu Item
 Once the desired menu item is highlighted, pressing the `M`enu key will enter into that menu item.
 
-
-## Adjusting a Menu Item
-Once the menu item is selected, pressing the up and down arrow keys will adjust the setting for that menu item. To confirm the selection, press the `M`enu key. To cancel the selection, press the `EXIT` key.
+Once the menu item is selected, pressing the up and down arrow keys will adjust the setting for that menu item. To confirm the selection, press the `M`enu key. To cancel the selection, press an `EXIT` key.
 
 # Main menu
 
