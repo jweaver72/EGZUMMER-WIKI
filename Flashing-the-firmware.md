@@ -4,13 +4,11 @@ Just goto the page with official released [egzumer firmware releases](https://gi
 
 * Use a Baofeng/Kenwood-like USB-2-Serial-cable with CH340-chip inside and connect it to your computer.
 
-* Press the programming cable _firmly_ into the radio and check if a `plug icon` is displayed (top right), to the left of the `battery icon`.
-
-![ProgramCable-Inserted](https://github.com/egzumer/uv-k5-firmware-custom/assets/148579604/456bfa53-4457-4282-bed4-14205a917175)
+* Press the programming cable _firmly_ into the radio
 
 * Switch of UV-K5
 
-* Put the UV-K5 in programming mode (press `PTT` and turn on the UV-K5 and check that the _**white LED**_ lights up).
+* Put the UV-K5 in programming mode (press `PTT` and turn on the UV-K5 and check that the flashlight lights up).
 
 * Select the latest/desired firmware and look for 
  `🗲FLASH WITH A BROWSER🗲`
