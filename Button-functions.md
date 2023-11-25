@@ -8,7 +8,7 @@ Buttons have functions assigned to them, these functions can be activated by eit
 * long press - user programmable in the menu: `M Long`
 ## `EXIT`
 * short press - exits current menu/function, deletes one digit in an input box
-* long press - deletes all input, exits DTMF input box
+* long press - deletes all input, exits DTMF input box, exits monitor mode
 ## `UP/DOWN`
 * Move Upward/Downward in Menu, Frequency, Settings, etc.
 ## `1 BAND`
