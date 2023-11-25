@@ -1,6 +1,6 @@
 # Welcome to the `uv-k5-firmware-custom` wiki!
 
-On this wiki the (custom and extended) functions are described, which have been realized with this adapted firmware ([`release v0.17`](https://github.com/egzumer/uv-k5-firmware-custom/releases)).
+On this wiki the (custom and extended) functions are described, which have been realized with this adapted firmware ([`releases`](https://github.com/egzumer/uv-k5-firmware-custom/releases)).
 
 This firmware unlocks the full frequency range of the radio and expands the capabilities of the Quansheng UV-K5 (-serie).  
 Original range 50 - 600 Mhz and now 18 MHz ~ 660 MHz and 840 ~ 1300 MHz. 
