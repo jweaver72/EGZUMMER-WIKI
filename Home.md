@@ -31,7 +31,7 @@ The screen has an TX-audio signal strength indication and RX signal strength ind
 * [Differences from QS stock firmware](https://github.com/egzumer/uv-k5-firmware-custom/wiki/Differences-from-QS-stock-firmware)
 
 
-![egzumer - display](https://github.com/egzumer/uv-k5-firmware-custom/assets/148579604/0ee03884-c7c3-4346-b338-15c9e8abd991)
+<img src="https://github.com/egzumer/uv-k5-firmware-custom/assets/148579604/0ee03884-c7c3-4346-b338-15c9e8abd991" width=350>
 
 
 # Read this wiki in your language
@@ -42,7 +42,3 @@ We have two languages predefined. But at the top of a translated screen you can 
 
 * [POLSKIE TŁUMACZENIE / Polish translation](https://github-com.translate.goog/egzumer/uv-k5-firmware-custom/wiki?_x_tr_sl=en&_x_tr_tl=pl&_x_tr_hl=pl&_x_tr_pto=wapp)<BR>
 * [Nederlandse vertaling / Dutch translation](https://github-com.translate.goog/egzumer/uv-k5-firmware-custom/wiki?_x_tr_sl=en&_x_tr_tl=nl&_x_tr_hl=nl&_x_tr_pto=wapp)<BR>
-
-
-#
-**_If you are (an English) native speaker and you see any language errors, please do the corrections, there should be an edit button. If editing needs some permissions create an issue, I will try to grant you access._**
