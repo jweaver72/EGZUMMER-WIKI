@@ -33,6 +33,13 @@ The number in front of the menu-item-description is an **_menu item number_** th
 1. `ChSave` - save current setting to a memory channel
 1. `ChDele` - delete memory channel
 1. `ChName` - modify memory channel name
+> * Use up/down keys to select a channel to edit
+> * Press the Menu button again to enter edit name mode
+> * Use up/down keys or digits (0 ~ 9) to cycle the letters etc.
+> * Press the Menu button to move to the next character position
+> * Repeat above two steps till you reach the end
+> * When "Sure?" pops up, press Menu to save, or Exit to cancel
+> * Press Exit at any time to cancel the edit and return to main menu.
 1. `SList` - selects which channel is used by memory channel scanner
 1. `SList1` - channels assigned to scan list 1
 1. `SList2` - channels assigned to scan list 2
