@@ -11,7 +11,15 @@ In the `channel mode` you can switch between saved memory channels. Memory chann
 
 ## Frequency scanning
 
-To start a frequency scan switch the VFO to frequency mode. Set the start frequency. Set the frequency step (menu `Step`). Start scanning with [custom button scan function](https://github.com/egzumer/uv-k5-firmware-custom/wiki/Button-functions#custom-button-functions) or by long pressing `* Scan` button.
+To start a frequency scan switch a VFO in frequency mode. Set a start frequency. Set a frequency step (menu `Step`). Start scanning with [custom button scan function](https://github.com/egzumer/uv-k5-firmware-custom/wiki/Button-functions#custom-button-functions) or by long pressing the `* Scan` button.
+
+### Scan frequency range function
+* switch to frequency mode
+* set upper and lower VFO frequencies to scan range boundaries
+* long-press `5 NOAA`, `ScnRng` label should show up
+* start scan with long-press `* Scan`
+* it will scan between given boundaries
+* long-press `5 NOAA` or `EXIT`, or switch VFOs to exit `ScnRng` mode
 
 ## Memory-channels scanning
 
