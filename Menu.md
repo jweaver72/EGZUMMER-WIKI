@@ -81,8 +81,8 @@ The number in front of the menu-item-description is a **_menu item number_** tha
    * BOTH - local ringing + reply response
 1. `D Hold` - DTMF auto reset time
 1. `D Prel` - DTMF pre-load time
-1. `D Decd` - enables DTMF decoder
-1. `D List` - list of DTMF constacts
+1. `D Decd` - enables [DTMF decoder](https://github.com/egzumer/uv-k5-firmware-custom/wiki/Radio-operation#dtmf-calling-decoding) 
+1. `D List` - list of DTMF contacts
 1. `D Live` - displays DTMF codes received by radio in the middle of the screen
 1. `AM Fix` - activates autogain AM fix function
 1. `VOX` - voice TX activation sensitivity level VOX Setting (OFF/1 .. 10)
