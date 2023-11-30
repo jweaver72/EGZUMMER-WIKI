@@ -28,6 +28,7 @@ Buttons have functions assigned to them, these functions can be activated by eit
 ## `5 NOAA`
 * `F+` - turns on spectrum analyzer
 * long press - in channel mode toggles scan lists that the selected channel is assigned to. You will see `I` and `II` symbols changing on the right side of the channel label
+* long press - in frequency mode to use [Scan frequency range function](https://github.com/egzumer/uv-k5-firmware-custom/wiki/Radio-operation#scan-frequency-range-function)
 ## `6 H/M/L`
 * `F+` - toggles power levels for current channel
 * long press - same
