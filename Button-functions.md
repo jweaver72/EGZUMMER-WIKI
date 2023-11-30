@@ -50,7 +50,9 @@ If FM radio reception is active, it stops when a signal is received on a Frequen
 ## `* SCAN`
 * short press - enters DTMF input mode
 * `F+` - turns on CTCSS scanner for current frequency
-* long press - in channel mode turns on channel scanner, in frequency mode turns on frequency scanner. When pressed while channel scan is in progress toggles scan lists 1/2/ALL
+* long press - in channel mode turns on channel scanner
+* long press - in frequency mode turns on frequency scanner ([Scan frequency range function](https://github.com/egzumer/uv-k5-firmware-custom/wiki/Radio-operation#scan-frequency-range-function)). 
+* When pressed while channel scan is in progress toggles scan lists 1/2/ALL
 ## `F # 🗝`
 * short press - toggles function option
 * long press - turns on/off key lock all the keys of the Front keypad
