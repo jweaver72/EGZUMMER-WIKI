@@ -2,6 +2,8 @@
 
 ## Registers used by AGC
 
+[BK4819 Registers_V1.1.pdf](https://github.com/egzumer/uv-k5-firmware-custom/files/13532694/BK4819.Registers_V1.1.pdf)
+
 | Register | Default | Description |
 |---|---|---|
 | REG_7E<15> | 0 | AGC fix mode:<br>1: Fix<br>0: Auto |
