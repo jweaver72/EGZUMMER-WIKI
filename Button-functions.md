@@ -13,11 +13,11 @@ Buttons have functions assigned to them, these functions can be activated by eit
 * Move Upward/Downward in Menu, Frequency, Settings, etc.
 ## `1 BAND`
 * `F+`
-  * in `frequency mode` - switches frequency bands 1-7, there is also band 7+ for >1GHz frequencies
-  * in `channel mode` - channel settings are copied to frequency mode
+  * in **frequency mode** - switches frequency bands 1-7, there is also band 7+ for >1GHz frequencies
+  * in **channel mode** - channel settings are copied to frequency mode
 * long press - same
 ## `2 A/B`
-* `F+` - switch main channel/vfo upper/lower (see arrow `►`)
+* `F+` - switches main VFO upper/lower (marked by `►`)
 * long press - same
 ## `3 VFO/MR`
 * `F+` - switch between frequency and channel mode
@@ -27,8 +27,9 @@ Buttons have functions assigned to them, these functions can be activated by eit
 * long press - same
 ## `5 NOAA`
 * `F+` - turns on spectrum analyzer
-* long press - in channel mode toggles scan lists that the selected channel is assigned to. You will see `I` and `II` symbols changing on the right side of the channel label
-* long press - in frequency mode to use [Scan frequency range function](https://github.com/egzumer/uv-k5-firmware-custom/wiki/Radio-operation#scan-frequency-range-function)
+* long press
+   * in **channel mode** - toggles scan lists that the selected channel is assigned to. You will see `I` and `II` symbols changing on the right side of the channel label
+   * in **frequency mode** - activates [scan range function](https://github.com/egzumer/uv-k5-firmware-custom/wiki/Radio-operation#scan-frequency-range-function)
 ## `6 H/M/L`
 * `F+` - toggles power levels for current channel
 * long press - same
@@ -44,14 +45,12 @@ Buttons have functions assigned to them, these functions can be activated by eit
 ## `0 FM`
 * `F+` - turns on FM radio
 * long press - same
-
-If FM radio reception is active, it stops when a signal is received on a Frequency/Memory-channel. If that signal stops, the FM radio switches back on after a five seconds. Bij pressing side-button-`PTT` you also temporary interrupt FM-reception.
-
 ## `* SCAN`
 * short press - enters DTMF input mode
 * `F+` - turns on CTCSS scanner for current frequency
-* long press - in channel mode turns on channel scanner
-* long press - in frequency mode turns on frequency scanner ([Scan frequency range function](https://github.com/egzumer/uv-k5-firmware-custom/wiki/Radio-operation#scan-frequency-range-function)). 
+* long press
+   * in **channel mode** - turns on channel scanner
+   * in **frequency mode** - turns on frequency scanner (can use [scan range feature](https://github.com/egzumer/uv-k5-firmware-custom/wiki/Radio-operation#scan-frequency-range-function)). 
 * When pressed while channel scan is in progress toggles scan lists 1/2/ALL
 ## `F # 🗝`
 * short press - toggles function option
