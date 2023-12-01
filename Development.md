@@ -30,3 +30,7 @@ This is in theory. In practice there are some issues. At least in AM mode it doe
 Register `REG_7B<15:0>` also plays some role. When it is set to 0x8420 the RSSI will go down to 170 in the fix mode. But if 0x318C value is used it won't.
 
 Another thing, the index sometimes will go to -2 !!??
+
+## 1o11 AM fix issue with strong signals
+
+There is an issue with original implementation. AGC is turned on so it regulates the index. If strong signal is received the AGC will change the index to -1 before AM-fix can react. The AM-fix always modifies gain table at index 3, AGC is locked at -1, so the AM-fix will have no effect on actual gains settings, and the signal will be clipped. One person noticed that when it happens toggling monitor function instantly fixes the issue. This is because toggling monitor resets the AGC and it momentarily switches to index 3 which applies AM-fix gain settings, that brings down the signal strength and the AGC will stay on index 3.
