@@ -25,13 +25,10 @@ The current VFO/Memory frequency is the **_start frequency_** of the spectrum sw
 
 ##  Button functions
 * `M` - Scrolls through the parameters displayed at the bottom of the screen which can be adjusted with `UP/DOWN`
-> LNA$ - Low Noise Amplifier $
->
-> LNA - Low Noise Amplifier
->
-> PGA - Programmable Gain Amplifier
->
-> IF - Intermediate Frequency
+   * LNAs - Short Low Noise Amplifier
+   * LNA - Low Noise Amplifier
+   * PGA - Programmable Gain Amplifier
+   * IF - Intermediate Frequency
 
 * `EXIT` - exits to the previous screen of the spectrum analyzer
 <br> 
