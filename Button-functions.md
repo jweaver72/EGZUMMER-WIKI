@@ -1,4 +1,4 @@
-Buttons have functions assigned to them, these functions can be activated by either pressing `F #` button first, then the function button (I will call it `F+` call). Other method is by long pressing the function button alone without `F #`. Most buttons replicate the `F+` with long press, but some buttons might have assigned different functions for `F+` and long press.
+Buttons have functions assigned to them, these functions can be activated by either pressing `F #` button first, then the function button (I will call it `F+` call). The other method is by long pressing the function button alone without `F #`. Most buttons replicate the `F+` with long press, but some buttons might have assigned different functions for `F+` and long press.
 
 # Front keypad
 
