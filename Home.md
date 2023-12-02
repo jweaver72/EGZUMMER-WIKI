@@ -29,8 +29,7 @@ The screen has an TX-audio signal strength indication and RX signal strength ind
 * [Differences from QS stock firmware](https://github.com/egzumer/uv-k5-firmware-custom/wiki/Differences-from-QS-stock-firmware)
 
 
-<img src="https://github.com/egzumer/uv-k5-firmware-custom/assets/148579604/0ee03884-c7c3-4346-b338-15c9e8abd991" width=350>
-
+<img src="https://github.com/egzumer/uv-k5-firmware-custom/assets/148579604/328b36f1-c342-44f2-beec-a2727532c2c4" width=298 />
 
 # Read this wiki in your language
 
