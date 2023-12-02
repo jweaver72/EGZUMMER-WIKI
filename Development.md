@@ -27,7 +27,8 @@ In `fix mode` the index is user configurable and doesn't change on its own.
 
 In `auto mode` the RF chip compares the signal strength (`REG_7E<11:6>`) to the high and low thresholds (`REG_49<13:7>`, `REG_49<6:0>`). If signal is higher than "high threshold" it decreases the `AGC fix index`, if it is lower than "low threshold" then it increases it. This way it tries to keep the signal strength between given threshold levels, thus preventing distortion and clipping.
 
-This is in theory. In practice there are some issues. At least in AM mode it doesn't work as it should. Lets assume we have a very strong signal. When AGC is in fix mode, index is set to 3, and value at index 3 is set to 0 the RSSI (read from other register) is around 170. When auto mode is activated (default values in gains table) the index goes to -1, gains at index -1 are 0, so we should get 170 as before. Instead we get RSSI over 300. All of this can be simulated using another radio, even if it only transmits in FM.
+This is in theory. In practice there are some issues. At least in AM mode it doesn't work as it should. Lets assume we have a very strong signal. AGC is in fix mode, index is set to 3, and value at index 3 is set to 0. The RSSI (read from other register) is around 170.<br>
+When auto mode is activated (default values in gains table) the index goes to -1, gains at index -1 are 0, so we should get 170 as before. Instead we get RSSI over 300. All of this can be simulated using another radio, even if it only transmits in FM.
 
 Register `REG_7B<15:0>` also plays some role. When it is set to 0x8420 the RSSI will go down to 170 in the fix mode. But if 0x318C value is used it won't.
 
