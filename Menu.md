@@ -1,6 +1,6 @@
 # Menu operation
 
-The menu can be accessed with the `M` button.
+The menu can be accessed with the `M` button _(short press)_.
 
 Once in the main menu, the menu items will be displayed on the left-hand side of the screen. The currently selected menu item will be highlighted and current value for that menu item will be shown on the right. Also, at the bottom left side a number of the menu item will be shown, ranging from 01 to the highest number. 
 
