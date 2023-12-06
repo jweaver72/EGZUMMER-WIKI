@@ -6,9 +6,9 @@ The current VFO/Memory frequency is the **_start frequency_** of the spectrum sw
 <img src="https://github.com/egzumer/uv-k5-firmware-custom/assets/148579604/80dfe424-f5d4-432b-9b95-32d116db9bd9" width=300 />
 
 ##  Button functions
-* `1` / `7` - increases/decreases the channel separation of a single bar in the graph
-* `4` - changes the number of channels to scan and toggles the number of bars in the graph
-* `2` / `8` - increases/decreases graph scrolling frequency step size
+* `1` / `7` - increases/decreases frequency step between consecutive bars
+* `4` - toggles the number of bars (channels) in the graph
+* `2` / `8` - increases/decreases frequency step size by which the graph is scrolled with UP/DOWN buttons
 * `5` - shows a frequency input box for lower sweep frequency. (value in **MHz**, `*` - decimal point)
 * `3` / `9` - increases/decreases maximum dB value (vertical scale)
 * `6` - toggles receiver bandwidth
