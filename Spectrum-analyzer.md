@@ -8,7 +8,7 @@ The current VFO/Memory frequency is the **_start frequency_** of the spectrum sw
 ##  Button functions
 * `1` / `7` - increases/decreases the channel separation of a single bar in the graph
 * `4` - changes the number of channels to scan and toggles the number of bars in the graph
-* `2` / `8` - increases/decreases frequency step size
+* `2` / `8` - increases/decreases graph scrolling frequency step size
 * `5` - shows a frequency input box for lower sweep frequency. (value in **MHz**, `*` - decimal point)
 * `3` / `9` - increases/decreases maximum dB value (vertical scale)
 * `6` - toggles receiver bandwidth
