@@ -12,8 +12,8 @@ Once the menu item is selected, pressing the up and down arrow keys will adjust 
 
 # Main menu
 
-The number in front of the menu-item-description is a **_menu item number_** that can be used for quick selection.
-1. `Step` - step of the frequency (in kHz), up/down buttons change frequency by this value, also you can only set a frequency that is multiple of this value. 2.50/5/6.25/10.00/12.50/25.00/8.33 are the steps that can be set by programming software, all other steps are extension from standard software, and can only be selected from this menu entry.
+The number in front of the menu-item-description is a **_menu item number_** that can be used for quick selection
+1. `Step` - step of the frequency (in kHz), up/down buttons change frequency by this value, also you can only set a frequency that is multiple of this value. 2.50/5/6.25/10.00/12.50/25.00/8.33 are the steps that can be set by programming software, all other steps are extension from standard software, and can only be selected from this menu entry
 1. `TxPwr` - radio output power (LOW/MID/HIGH)
 1. `RxDCS` - receiver Digital-Coded Squelch, if you enable this, squelch will only unlock if this code is being received. You can start a DCS/CTCSS scan while you are in this menu option by pressing `* SCAN` button
 1. `RxCTCS` - receiver Continuous Tone-Coded Squelch System, squelch will only unlock if this code is being received. You can start a DCS/CTCSS scan while you are in this menu option by pressing `* SCAN` button
@@ -54,18 +54,18 @@ The number in front of the menu-item-description is a **_menu item number_** tha
 1. `M Long` - menu button long press function
 1. `KeyLck` - auto keypad lock option
 1. `TxTOut` - max transmission time limit
-1. `BatSav` - battery save option, the rate between active time and sleep time (OFF/1:1/1:2/1:3/1:4)
-1. `Mic` - microphone sensitivity (+1.1dB .. +15.1dB)
+1. `BatSav` - battery save option, a rate between active time and sleep time
+1. `Mic` - microphone sensitivity
 1. `MicBar` - microphone bar that appears while transmitting
-1. `ChDisp` - channel display style (Name + Freq or Number)
+1. `ChDisp` - channel display style
 1. `POnMsg` - power on message
-1. `BatTxt` - additional battery value on the status bar in % or V(oltage)
-1. `BackLt` - backlight duration  (OFF/ON/configured Time)
+1. `BatTxt` - additional battery value on the status bar in % or volts
+1. `BackLt` - backlight duration
 1. `BLMin` - minimal backlight brightness, when the screen backlight turns OFF it will go dim to this value
 2. `BLMax` - maximal backlight brightness, when the screen backlight turns ON it will turn bright to this value
 1. `BltTRX` - backlight activation on TX or RX
 1. `Beep` - keypad press beep sound
-1. `Roger` - roger beep at the end of transmission (OFF/ROGER/MDC1200)
+1. `Roger` - roger beep at the end of transmission
 1. `STE` - squelch tail eliminator, eliminates noise at the end of a transmission
 1. `RP STE` - repeater squelch tail eliminator
 1. `1 Call` - one key call channel, lets you quickly switch to the channel with `9 Call` button
@@ -85,14 +85,14 @@ The number in front of the menu-item-description is a **_menu item number_** tha
 1. `D List` - list of DTMF contacts
 1. `D Live` - displays DTMF codes received by radio in the middle of the screen
 1. `AM Fix` - activates autogain AM fix function
-1. `VOX` - voice TX activation sensitivity level VOX Setting (OFF/1 .. 10)
+1. `VOX` - voice TX activation sensitivity level VOX Setting
 1. `BatVol` - battery voltage and percentage
 1. `RxMode` - sets how the upper and lower frequency is used
    * MAIN ONLY - always transmits and listens on the main frequency
    * DUAL RX RESPOND - listens to both frequencies, if signal is received on the secondary frequency it locks to it for a couple of seconds so you can respond to the call (`DWR`)
    * CROSS BAND - always transmits on the primary and listens on the secondary frequency (`XB`)
    * MAIN TX DUAL RX - always transmits on the primary, listens to both (`DW`)
-60. `Sql` - squelch sensitivity level (0=OFF/1 .. 9)
+60. `Sql` - squelch sensitivity level
 
 # Hidden menu
 
