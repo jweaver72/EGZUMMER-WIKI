@@ -98,8 +98,6 @@ The number in front of the menu-item-description is a **_menu item number_** tha
 
 Hidden menu is activated by holding `PTT` + `SIDE BUTTON 1` while turning on the radio and than Release All Keys.
 
-The number in front of the menu-item-description is an **_menu item number_** that can be used for quick selection.
-
 61. `F Lock` - sets the TX frequency band plan. 
     * DEFAULT+ (137-174, 400-470) - allows TX on default bands, plus options `Tx 200`, `Tx 350`, `Tx 500`
     * FCC HAM (144-148, 420-450)
