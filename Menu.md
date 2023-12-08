@@ -90,7 +90,7 @@ The number in front of the menu-item-description is a **_menu item number_** tha
 1. `RxMode` - sets how the upper and lower frequency is used
    * MAIN ONLY - always transmits and listens on the main frequency
    * DUAL RX RESPOND - listens to both frequencies, if signal is received on the secondary frequency it locks to it for a couple of seconds so you can respond to the call (`DWR`)
-   * CROSS BAND - always transmits on the MAIN/primary and listens on the secondary frequency (`XB`)
+   * CROSS BAND - always transmits on the primary and listens on the secondary frequency (`XB`)
    * MAIN TX DUAL RX - always transmits on the primary, listens to both (`DW`)
 60. `Sql` - squelch sensitivity level (0=OFF/1 .. 9)
 
