@@ -20,7 +20,7 @@
 
 59 `RxMode` - determine how the upper and lower frequencies are used. Set it to MAIN TX DUAL RX - always broadcasts on the primary station (marked ►), listens to both (DW on screen)
 
-and in the hidden menu (in the manual it says so)
+and in the hidden menu (See manual how2enter)
 
 67 `BatCal` - battery calibration, measure the battery voltage with a voltmeter (on the metal circles on the back of the radio) and adjust the value in the menu accordingly.
 With my radios this was a value of 1889 to 1950 and 1896 -> 2021.
