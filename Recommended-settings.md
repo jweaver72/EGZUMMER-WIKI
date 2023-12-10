@@ -16,7 +16,7 @@
 
 36 `BackLt` - backlight duration (OFF/ON/configured time). Set it to 2 minutes
 
-56. `AM Fix` - activates the autogain AM fix function. Set it to ON
+56 `AM Fix` - activates the autogain AM fix function. Set it to ON
 
 59 `RxMode` - determine how the upper and lower frequencies are used. Set it to MAIN TX DUAL RX - always broadcasts on the primary station (marked ►), listens to both (DW on screen)
 
