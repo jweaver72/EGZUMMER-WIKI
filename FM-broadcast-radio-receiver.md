@@ -8,7 +8,7 @@ _During broadcast reception the active VFO still has priority. This means that a
 
 * `F` + `0 FM` or long press `0 FM` or [custom button function](https://github.com/egzumer/uv-k5-firmware-custom/wiki/Button-functions#custom-button-functions) starts broadcast reception
 * `Exit` or using above start command, when radio is in FM radio mode, ends broadcast reception
-* `F` + `VFO/MR` or long press `VFO/MR` changes between VFO or memory channels
+* `F` + `VFO/MR` or long press `VFO/MR` changes between VFO or memory channels (VFO-/MR-mode)
 
 ## Set a frequency in FM-VFO mode
 
