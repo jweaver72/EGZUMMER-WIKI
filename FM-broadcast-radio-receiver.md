@@ -17,13 +17,13 @@ Simply typing a frequency sets it to receive. Resolution is 100 kHz so entering 
 
 Pressing `M` in VFO mode allows to store the current  frequency in a memory channel. Use arrow keys to select memory, confirm with `M`. There are 20 memories available.
 
-## Delete a stored memory
-
-In MR-mode pressing `M` allows to delete that memory channel.
-
 ## Select a memory
 
 In MR-mode entering `01-20` selects a memory channel. Use `UP/DOWN` to step a memory channel up or down.
+
+## Delete a stored memory
+
+In MR-mode pressing `M` allows to delete that memory channel.
 
 # SCANNING FOR STATIONS FROM FM-VFO
 
