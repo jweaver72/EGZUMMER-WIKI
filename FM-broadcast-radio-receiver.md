@@ -12,18 +12,18 @@ _During broadcast reception the active VFO still has priority. This means that a
 
 ## Set a frequency in FM-VFO mode
 
-simply typing a frequency sets it to receive. Resolution is 100 kHz so entering 929 would tune to 92.9 MHz. Use arrow keys to change in 100 kHz steps.
+Simply typing a frequency sets it to receive. Resolution is 100 kHz so entering 929 would tune to 92.9 MHz. Use arrow keys to change in 100 kHz steps.
 ## Store in memory from FM-VFO mode
 
-pressing `M` in VFO mode allows to store the current  frequency in a memory channel. Use arrow keys to select memory, confirm with `M`. There are 20 memories available.
+Pressing `M` in VFO mode allows to store the current  frequency in a memory channel. Use arrow keys to select memory, confirm with `M`. There are 20 memories available.
 
 ## Delete a stored memory
 
-in MR mode pressing `M` allows to delete that memory channel.
+In MR mode pressing `M` allows to delete that memory channel.
 
 ## Select a memory
 
-in MR mode entering 01-20 selects a memory channel. Use arrow keys to step a channel up or down.
+In MR mode entering 01-20 selects a memory channel. Use arrow keys to step a channel up or down.
 
 # SCANNING FOR STATIONS FROM FM-VFO
 
