@@ -1,6 +1,6 @@
 # BROADCAST FM
 
-The radio is capable of receiving broadcast FM from 76 to 108 MHz. For this it uses a separate chip. RDS is not implemented.
+The radio is capable of receiving broadcast FM from 76 to 108 MHz. For this it uses a separate chip (BK1080). RDS is not implemented.
 
 _During broadcast reception the active VFO still has priority. This means that any reception on the active VFO will temporarily disable broadcast reception and the radio switches to VFO reception. At the end of VFO reception the radio switches back to broadcast._
 
