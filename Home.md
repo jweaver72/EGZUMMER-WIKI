@@ -24,6 +24,8 @@ The screen has an TX-audio signal strength indication and RX signal strength ind
 
 * [Spectrum analyzer](https://github.com/egzumer/uv-k5-firmware-custom/wiki/Spectrum-analyzer)
 
+* [FM broadcast radio receiver](https://github.com/egzumer/uv-k5-firmware-custom/wiki/FM-broadcast-radio-receiver)
+
 * [Flashing the firmware](https://github.com/egzumer/uv-k5-firmware-custom/wiki/Flashing-the-firmware)
 
 * [Differences from QS stock firmware](https://github.com/egzumer/uv-k5-firmware-custom/wiki/Differences-from-QS-stock-firmware)
