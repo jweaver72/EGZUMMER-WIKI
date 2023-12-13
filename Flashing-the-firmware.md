@@ -1,4 +1,4 @@
-Flashing firmware is possible with a separate program, but can now be done much more easily from your web browser.
+Flashing firmware is possible with a separate program, but can now be done much more easily from your web browser (Only Chromium based browsers such as Chrome, Edge, Opera).
 
 Just goto the page with official released [egzumer firmware releases](https://github.com/egzumer/uv-k5-firmware-custom/releases).
 
