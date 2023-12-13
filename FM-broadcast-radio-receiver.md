@@ -23,7 +23,7 @@ In MR-mode pressing `M` allows to delete that memory channel.
 
 ## Select a memory
 
-In MR-mode entering 01-20 selects a memory channel. Use arrow keys to step a channel up or down.
+In MR-mode entering `01-20` selects a memory channel. Use `UP/DOWN` to step a memory channel up or down.
 
 # SCANNING FOR STATIONS FROM FM-VFO
 
