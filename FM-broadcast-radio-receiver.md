@@ -19,7 +19,7 @@ Pressing `M` in VFO mode allows to store the current  frequency in a memory chan
 
 ## Select a memory
 
-In MR-mode entering `01-20` selects a memory channel. Use `UP/DOWN` to step a memory channel up or down.
+In MR-mode entering `01`.. `20` selects a memory channel. Use `UP/DOWN` to step a memory channel up or down.
 
 ## Delete a stored memory
 
