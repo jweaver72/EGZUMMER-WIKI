@@ -1,8 +1,8 @@
 # Welcome to the `uv-k5-firmware-custom` wiki!
 
-The firmware can be downloaded from [uv-k5-firmware-custom](https://github.com/egzumer/uv-k5-firmware-custom/releases).
-
-Dedicated CHIRP driver can be downloaded from [uvk5-chirp-driver](https://github.com/egzumer/uvk5-chirp-driver/releases)
+The firmware can be downloaded from [uv-k5-firmware-custom](https://github.com/egzumer/uv-k5-firmware-custom/releases).<br>
+Dedicated CHIRP driver can be downloaded from [uvk5-chirp-driver](https://github.com/egzumer/uvk5-chirp-driver/releases).<br>
+For more technical information go to [README](https://github.com/egzumer/uv-k5-firmware-custom/blob/main/README.md).
 
 # Chapters
 
