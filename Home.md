@@ -1,5 +1,7 @@
 # Welcome to the `uv-k5-firmware-custom` wiki!
 
+<img src="https://github.com/egzumer/uv-k5-firmware-custom/assets/148579604/022d6f03-cb83-41e8-9008-0848771f4b1a" width=298 alt="radio"  align="right"/>
+
 The firmware can be downloaded from [uv-k5-firmware-custom](https://github.com/egzumer/uv-k5-firmware-custom/releases).<br>
 Dedicated CHIRP driver can be downloaded from [uvk5-chirp-driver](https://github.com/egzumer/uvk5-chirp-driver/releases).<br>
 For more technical information go to [README](https://github.com/egzumer/uv-k5-firmware-custom/blob/main/README.md).
@@ -13,8 +15,6 @@ For more technical information go to [README](https://github.com/egzumer/uv-k5-f
 * [FM broadcast radio receiver](https://github.com/egzumer/uv-k5-firmware-custom/wiki/FM-broadcast-radio-receiver)
 * [Flashing the firmware](https://github.com/egzumer/uv-k5-firmware-custom/wiki/Flashing-the-firmware)
 * [Differences from QS stock firmware](https://github.com/egzumer/uv-k5-firmware-custom/wiki/Differences-from-QS-stock-firmware)
-
-<img src="https://github.com/egzumer/uv-k5-firmware-custom/assets/148579604/022d6f03-cb83-41e8-9008-0848771f4b1a" width=298 alt="radio" />
 
 
 # Translations
