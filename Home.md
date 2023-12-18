@@ -12,7 +12,6 @@ For more technical information go to [README](https://github.com/egzumer/uv-k5-f
 * [Spectrum analyzer](https://github.com/egzumer/uv-k5-firmware-custom/wiki/Spectrum-analyzer)
 * [FM broadcast radio receiver](https://github.com/egzumer/uv-k5-firmware-custom/wiki/FM-broadcast-radio-receiver)
 * [Flashing the firmware](https://github.com/egzumer/uv-k5-firmware-custom/wiki/Flashing-the-firmware)
-* [Development-notes](https://github.com/egzumer/uv-k5-firmware-custom/wiki/Development-notes)
 * [Differences from QS stock firmware](https://github.com/egzumer/uv-k5-firmware-custom/wiki/Differences-from-QS-stock-firmware)
 
 <img src="https://github.com/egzumer/uv-k5-firmware-custom/assets/148579604/022d6f03-cb83-41e8-9008-0848771f4b1a" width=298 alt="radio" />
