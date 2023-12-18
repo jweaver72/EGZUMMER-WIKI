@@ -25,3 +25,5 @@ The Wiki can be translated into other languages using Google translate. Two lang
 * [Nederlandse vertaling / Dutch translation](https://github-com.translate.goog/egzumer/uv-k5-firmware-custom/wiki?_x_tr_sl=en&_x_tr_tl=nl&_x_tr_hl=nl&_x_tr_pto=wapp)
 
 This _Manual_ is located at https://github.com/egzumer/uv-k5-firmware-custom/wiki.
+
+Feel free to correct grammar or make other minor improvements. Consult for major changes.
