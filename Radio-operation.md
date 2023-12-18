@@ -5,7 +5,10 @@ Each VFO can operate independently of each other function in either frequency or
 
 In the `frequency mode` you manually type in the frequency with the keypad. You can also switch different options for that VFO in the menu (first 13 menu entries). If you setup the VFO, the settings can be saved to a memory channel by going into the menu `ChSave` and choosing the memory channel the VFO should be saved into.
 
-In the `channel mode` you can switch between saved memory channels. Memory channels can be added manually as mentioned before or with a computer software with [`Chirp`](https://chirp.danplanet.com/projects/chirp/wiki/Download) (do not use Quansheng CPS it overwrites custom settings. If you open Settings tab in CHIRP, it will also overwrite some, so avoid doing that if you don't have to).
+In the `channel mode` you can switch between saved memory channels. Memory channels can be added manually as mentioned before or with a computer with [`CHIRP`](https://github.com/egzumer/uvk5-chirp-driver)
+
+> [!WARNING]
+Do not use Quansheng CPS it overwrites custom settings.
 
 # Frequency/Memory scanning
 
