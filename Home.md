@@ -19,8 +19,7 @@ For more technical information go to [README](https://github.com/egzumer/uv-k5-f
 
 # Translations
 
-With the links below you can translate the Wiki to your language using Google translate.
-Two languages are predefined below, but if you open any of those, then at the top of the translated page you will be able to select other languages. 
+Wiki can be translated to other languages using Google translate. Two languages are predefined below, but if you open any of those, then at the top of the translated page you will be able to select other languages also. 
 
 * [POLSKIE TŁUMACZENIE / Polish translation](https://github-com.translate.goog/egzumer/uv-k5-firmware-custom/wiki?_x_tr_sl=en&_x_tr_tl=pl&_x_tr_hl=pl&_x_tr_pto=wapp)
 * [Nederlandse vertaling / Dutch translation](https://github-com.translate.goog/egzumer/uv-k5-firmware-custom/wiki?_x_tr_sl=en&_x_tr_tl=nl&_x_tr_hl=nl&_x_tr_pto=wapp)
