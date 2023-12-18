@@ -37,7 +37,7 @@ Another thing, the index sometimes goes to -2 !!??
 EDIT:
 
 REG_7B and REG_7C are probably RSSI correction values for gain indexes 2 to -1. This probably has to be adjusted so switching gain index doesn't cause change in RSSI value for the same strength of signal. I was wrong about AGC not working correctly for AM. I didn't have AM transmitter at the time so I was looking at RSSI values. The RSSI corrections are applied when gain index changes, that is why I was getting different RSSI values when I was changing gains at index 3, compared to the same gain set at index -1.
-AGC for AM works, the downside is that there are only 4 gain steps compared to 90 or more steps in AM-fix. Volume of AM signal depends on its strength so the more granular adjustments of gains the better. Also the AGC adjustment tends to oscillate when signal is in between two ranges.
+AGC for AM works, the downside is that there are only 4 gain steps compared to 40 or more steps in AM-fix. Volume of AM signal depends on its strength so the more granular adjustments of gains the better. Also the AGC adjustment tends to oscillate when signal is in between two ranges.
 
 ## 1o11 AM fix issue with strong signals
 
