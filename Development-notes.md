@@ -34,6 +34,11 @@ Register `REG_7B<15:0>` also plays some role. When it is set to 0x8420 the RSSI 
 
 Another thing, the index sometimes goes to -2 !!??
 
+EDIT:
+
+REG_7B and REG_7C are probably RSSI correction values for gain indexes 2 to -1. This probably has to be adjusted so switching gain index doesn't cause change in RSSI value for the same strength of signal. I was wrong about AGC not working correctly for AM. I didn't have AM transmitter at the time so I was looking at RSSI values. The RSSI corrections are applied when gain index changes, that is why I was getting different RSSI values when I was changing gains at index 3, compared to the same gain set at index -1.
+AGC for AM works, the downside is that there are only 4 gain steps compared to 90 or more steps in AM-fix. Volume of AM signal depends on its strength so the more granular adjustments of gains the better. Also the AGC adjustment tends to oscillate when signal is in between two ranges.
+
 ## 1o11 AM fix issue with strong signals
 
 There is an issue with original implementation. AGC is turned on so it regulates the index. If strong signal is received the AGC will change the index to -1 before AM-fix can react. The AM-fix always modifies gain table at index 3, AGC is locked at -1, so the AM-fix will have no effect on actual gains settings, and the signal will be clipped. One person noticed that when it happens toggling monitor function instantly fixes the issue. This is because toggling monitor resets the AGC and it momentarily switches to index 3 which applies AM-fix gain settings, that brings down the signal strength and the AGC will stay on index 3. I fixed it by disabling AGC in AM mode.
