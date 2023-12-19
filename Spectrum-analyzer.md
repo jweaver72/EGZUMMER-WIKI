@@ -1,6 +1,6 @@
 # Spectrum Sweep screen
-Press `F` + `5 NOAA` to turn on the **Spectrum analyzer**.
-Spectrum analyzer can also be used with [`ScnRng` mode](./Radio-operation#scan-frequency-range-function)
+Press `F` + `5 NOAA` to turn on the **Spectrum analyzer**.<br>
+Spectrum analyzer can also be used with [**ScnRng** mode](./Radio-operation#scan-frequency-range-function)
 
 The current VFO/Memory frequency is the **_start frequency_** of the spectrum sweep
 
