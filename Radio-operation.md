@@ -24,6 +24,8 @@ To start a frequency scan switch a VFO in frequency mode. Set a start frequency.
 * it will scan between given boundaries
 * long-press `5 NOAA` or `EXIT`, or switch VFOs to exit `ScnRng` mode
 
+`ScnRng` function is also supported by spectrum analyzer. If you activated the function just start [spectrum analyzer](./Spectrum-analyzer).
+
 ## Memory-channels scanning
 
 To scan channels saved in the radio memory switch the VFO to Memory mode.
