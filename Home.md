@@ -8,13 +8,13 @@ For more technical information go to [README](https://github.com/egzumer/uv-k5-f
 
 # Chapters
 
-* [Radio operation](Radio-operation)
-* [Menu](../Menu)
-* [Button functions](../Button-functions)
-* [Spectrum analyzer](../Spectrum-analyzer)
-* [FM broadcast radio receiver](../FM-broadcast-radio-receiver)
-* [Flashing the firmware](../Flashing-the-firmware)
-* [Differences from QS stock firmware](../Differences-from-QS-stock-firmware)
+* [Radio operation](./Radio-operation)
+* [Menu](./Menu)
+* [Button functions](./Button-functions)
+* [Spectrum analyzer](./Spectrum-analyzer)
+* [FM broadcast radio receiver](./FM-broadcast-radio-receiver)
+* [Flashing the firmware](./Flashing-the-firmware)
+* [Differences from QS stock firmware](./Differences-from-QS-stock-firmware)
 
 
 # Translations
