@@ -8,7 +8,7 @@ For more technical information go to [README](https://github.com/egzumer/uv-k5-f
 
 # Chapters
 
-* [Radio operation](../Radio-operation)
+* [Radio operation](Radio-operation)
 * [Menu](../Menu)
 * [Button functions](../Button-functions)
 * [Spectrum analyzer](../Spectrum-analyzer)
