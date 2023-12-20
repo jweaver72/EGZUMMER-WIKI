@@ -18,7 +18,7 @@ Spectrum analyzer can also be used with [**ScnRng** mode](./Radio-operation#scan
 * `6` - toggles receiver bandwidth
 * `*` / `F` - increases/decreases squelch level
 * `0` - toggles modulation type (FM/AM/USB)
-* `Side Button I` - excludes current frequency from the spectrum scan
+* `Side Button I` - excludes current frequency from the spectrum scan (max 15)
 * `Side Button II` - toggles backlight
 * `EXIT` - exits to a previous screen/function
 * `PTT` - switches screen to _**detail monitoring**_ of last received frequency (_see below_)
