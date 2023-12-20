@@ -1,10 +1,6 @@
 # Spectrum Sweep screen
 Press `F` + `5 NOAA` to turn on the **Spectrum analyzer**.<br>
 
-The current VFO/Memory frequency is the **_start frequency_** of the spectrum sweep
-
-**With firmware v0.21** 
-
 The current VFO/Memory frequency is the **_centre frequency_** of the spectrum sweep
 
 
