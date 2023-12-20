@@ -8,7 +8,7 @@ Buttons have functions assigned to them, these functions can be activated by eit
 * long press - user programmable in the menu: `M Long`
 ## `EXIT`
 * short press - exits current menu/function, deletes one digit in an input box
-* long press - deletes all input, exits DTMF input box, exits monitor mode
+* long press - deletes all input, exits DTMF input box, exits monitor mode, exits `ScnRng`
 ## `UP/DOWN`
 * Move Upward/Downward in Menu, Frequency, Settings, etc.
 ## `1 BAND`
@@ -64,11 +64,11 @@ Buttons have functions assigned to them, these functions can be activated by eit
 * held together with `Function button II` transmits tone 1750Hz
 * held together with any of the front keypad buttons transmits DTMF codes
 
-## `Function button I` 
+## `Side button I` 
 * short press - user programmable in the menu: `F1Shrt`
 * long press - user programmable in the menu: `F1Long`
 
-## `Function button II` 
+## `Side button II` 
 * short press - user programmable in the menu: `F2Shrt`
 * long press - user programmable in the menu: `F2Long`
 * this button can also be used to send tone 1750Hz by holding it together with `PTT` button
