@@ -15,8 +15,6 @@ For more technical information go to [README](https://github.com/egzumer/uv-k5-f
 * [FM broadcast radio receiver](./FM-broadcast-radio-receiver)
 * [Flashing the firmware](./Flashing-the-firmware)
 * [Differences from QS stock firmware](./Differences-from-QS-stock-firmware)
-* [Development notes](./Development-notes)
-
 
 # Translations
 
