@@ -6,6 +6,7 @@ The current VFO/Memory frequency will be the **_center frequency_** of the spect
 <br><br>
 
 Spectrum analyzer can also be used with [**ScnRng** mode](./Radio-operation#scan-frequency-range-function)
+NOTE: in this mode blacklist is limited to 15 frequecies
 
 ##  Button functions
 * `1` / `7` - increases/decreases frequency step between consecutive bars
