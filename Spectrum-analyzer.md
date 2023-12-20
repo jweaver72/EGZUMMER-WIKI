@@ -3,6 +3,11 @@ Press `F` + `5 NOAA` to turn on the **Spectrum analyzer**.<br>
 
 The current VFO/Memory frequency is the **_start frequency_** of the spectrum sweep
 
+**With firmware v0.21** 
+
+The current VFO/Memory frequency is the **_centre frequency_** of the spectrum sweep
+
+
 <img src="https://github.com/egzumer/uv-k5-firmware-custom/assets/148579604/80dfe424-f5d4-432b-9b95-32d116db9bd9" width=300 />
 <br><br>
 
