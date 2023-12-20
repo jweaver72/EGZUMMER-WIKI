@@ -5,7 +5,7 @@ The current VFO/Memory frequency will be the **_center frequency_** of the spect
 <img src="https://github.com/egzumer/uv-k5-firmware-custom/assets/148579604/80dfe424-f5d4-432b-9b95-32d116db9bd9" width=300 />
 <br><br>
 
-Spectrum analyzer can also be used with [**ScnRng** mode](./Radio-operation#scan-frequency-range-function)
+Spectrum analyzer can also be used with [**ScnRng** mode](./Radio-operation#scan-frequency-range-function)<br>
 NOTE: in this mode blacklist is limited to 15 frequecies
 
 ##  Button functions
