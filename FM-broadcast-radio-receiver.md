@@ -34,3 +34,11 @@ The radio scans for stations and stores the first 20 stations in memory. Scannin
 ## Manual scan 
 
 Short press `* Scan` starts manual scan. The radio scans from the current frequency up until a station is received. You can continue scanning in any direction using arrow keys. `Exit` stops scanmode.
+
+# Button functions
+
+* `1 BAND` - switch bands (frequency ranges)
+* `3 VFO/MR` - switch frequency/memory mode
+* `* SCAN`
+   * short press - start single scan
+   * long press - start auto scan (all memory channels will be deleted and replaced with scan result)
