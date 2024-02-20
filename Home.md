@@ -7,10 +7,8 @@ Dedicated CHIRP driver can be downloaded from [uvk5-chirp-driver](https://github
 For more technical information go to [README](https://github.com/egzumer/uv-k5-firmware-custom/blob/main/README.md).
 
 > [!TIP]
-> There is a work done by others on forks of this repository. I encourage you to take a look at those too.
-You can use below links to see comparison between forks.<br>
-https://gitpop2.vercel.app/egzumer/uv-k5-firmware-custom<br>
-https://useful-forks.github.io/?repo=egzumer/uv-k5-firmware-custom
+> There is a work done by others on forks of this repository. I encourage you to take a look at those too.<br>
+[SEE HERE](https://github.com/egzumer/uv-k5-firmware-custom/discussions/485)
 
 # Chapters
 
